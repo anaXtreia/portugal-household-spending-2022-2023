@@ -1,0 +1,1273 @@
+coicop,descricao,grupo,despesa_eur,baixa_fiab_eur,nivel,peso_pct,baixa_fiab_pct
+01,Produtos alimentares e bebidas não alcoólicas,1º quintil,2571.0,False,1,15.8,False
+01,Produtos alimentares e bebidas não alcoólicas,2º quintil,2761.0,False,1,15.1,False
+01,Produtos alimentares e bebidas não alcoólicas,3º quintil,3248.0,False,1,14.6,False
+01,Produtos alimentares e bebidas não alcoólicas,4º quintil,3407.0,False,1,13.0,False
+01,Produtos alimentares e bebidas não alcoólicas,5º quintil,3442.0,False,1,9.8,False
+01,Produtos alimentares e bebidas não alcoólicas,Total,3091.0,False,1,12.9,False
+01.1,Produtos alimentares,1º quintil,2412.0,False,2,14.8,False
+01.1,Produtos alimentares,2º quintil,2573.0,False,2,14.1,False
+01.1,Produtos alimentares,3º quintil,3022.0,False,2,13.6,False
+01.1,Produtos alimentares,4º quintil,3139.0,False,2,12.0,False
+01.1,Produtos alimentares,5º quintil,3192.0,False,2,9.1,False
+01.1,Produtos alimentares,Total,2872.0,False,2,12.0,False
+01.1.1,Cereais e produtos à base de cereais,1º quintil,380.0,False,3,2.3,False
+01.1.1,Cereais e produtos à base de cereais,2º quintil,404.0,False,3,2.2,False
+01.1.1,Cereais e produtos à base de cereais,3º quintil,447.0,False,3,2.0,False
+01.1.1,Cereais e produtos à base de cereais,4º quintil,443.0,False,3,1.7,False
+01.1.1,Cereais e produtos à base de cereais,5º quintil,426.0,False,3,1.2,False
+01.1.1,Cereais e produtos à base de cereais,Total,420.0,False,3,1.8,False
+01.1.2,"Animais vivos, carne e outras partes de animais terrestres abatidos",1º quintil,575.0,False,3,3.5,False
+01.1.2,"Animais vivos, carne e outras partes de animais terrestres abatidos",2º quintil,633.0,False,3,3.5,False
+01.1.2,"Animais vivos, carne e outras partes de animais terrestres abatidos",3º quintil,767.0,False,3,3.5,False
+01.1.2,"Animais vivos, carne e outras partes de animais terrestres abatidos",4º quintil,740.0,False,3,2.8,False
+01.1.2,"Animais vivos, carne e outras partes de animais terrestres abatidos",5º quintil,650.0,False,3,1.9,False
+01.1.2,"Animais vivos, carne e outras partes de animais terrestres abatidos",Total,670.0,False,3,2.8,False
+01.1.3,Peixe e outros produtos alimentares do mar,1º quintil,313.0,False,3,1.9,False
+01.1.3,Peixe e outros produtos alimentares do mar,2º quintil,342.0,False,3,1.9,False
+01.1.3,Peixe e outros produtos alimentares do mar,3º quintil,415.0,False,3,1.9,False
+01.1.3,Peixe e outros produtos alimentares do mar,4º quintil,463.0,False,3,1.8,False
+01.1.3,Peixe e outros produtos alimentares do mar,5º quintil,476.0,False,3,1.4,False
+01.1.3,Peixe e outros produtos alimentares do mar,Total,403.0,False,3,1.7,False
+01.1.4,"Leite, outros produtos lácteos e ovos",1º quintil,312.0,False,3,1.9,False
+01.1.4,"Leite, outros produtos lácteos e ovos",2º quintil,324.0,False,3,1.8,False
+01.1.4,"Leite, outros produtos lácteos e ovos",3º quintil,376.0,False,3,1.7,False
+01.1.4,"Leite, outros produtos lácteos e ovos",4º quintil,405.0,False,3,1.5,False
+01.1.4,"Leite, outros produtos lácteos e ovos",5º quintil,420.0,False,3,1.2,False
+01.1.4,"Leite, outros produtos lácteos e ovos",Total,369.0,False,3,1.5,False
+01.1.5,Óleos e gorduras,1º quintil,102.0,False,3,0.6,False
+01.1.5,Óleos e gorduras,2º quintil,119.0,False,3,0.7,False
+01.1.5,Óleos e gorduras,3º quintil,131.0,False,3,0.6,False
+01.1.5,Óleos e gorduras,4º quintil,138.0,False,3,0.5,False
+01.1.5,Óleos e gorduras,5º quintil,108.0,False,3,0.3,False
+01.1.5,Óleos e gorduras,Total,119.0,False,3,0.5,False
+01.1.6,Fruta e frutos de casca rija,1º quintil,231.0,False,3,1.4,False
+01.1.6,Fruta e frutos de casca rija,2º quintil,246.0,False,3,1.3,False
+01.1.6,Fruta e frutos de casca rija,3º quintil,275.0,False,3,1.2,False
+01.1.6,Fruta e frutos de casca rija,4º quintil,320.0,False,3,1.2,False
+01.1.6,Fruta e frutos de casca rija,5º quintil,407.0,False,3,1.2,False
+01.1.6,Fruta e frutos de casca rija,Total,299.0,False,3,1.3,False
+01.1.7,"Produtos hortícolas, tubérculos, bananas-pão, bananas para culinária e leguminosas",1º quintil,294.0,False,3,1.8,False
+01.1.7,"Produtos hortícolas, tubérculos, bananas-pão, bananas para culinária e leguminosas",2º quintil,290.0,False,3,1.6,False
+01.1.7,"Produtos hortícolas, tubérculos, bananas-pão, bananas para culinária e leguminosas",3º quintil,336.0,False,3,1.5,False
+01.1.7,"Produtos hortícolas, tubérculos, bananas-pão, bananas para culinária e leguminosas",4º quintil,344.0,False,3,1.3,False
+01.1.7,"Produtos hortícolas, tubérculos, bananas-pão, bananas para culinária e leguminosas",5º quintil,354.0,False,3,1.0,False
+01.1.7,"Produtos hortícolas, tubérculos, bananas-pão, bananas para culinária e leguminosas",Total,324.0,False,3,1.4,False
+01.1.8,"Açúcar, confeitaria e sobremesas",1º quintil,75.0,False,3,0.5,False
+01.1.8,"Açúcar, confeitaria e sobremesas",2º quintil,87.0,False,3,0.5,False
+01.1.8,"Açúcar, confeitaria e sobremesas",3º quintil,136.0,False,3,0.6,False
+01.1.8,"Açúcar, confeitaria e sobremesas",4º quintil,121.0,False,3,0.5,False
+01.1.8,"Açúcar, confeitaria e sobremesas",5º quintil,169.0,False,3,0.5,False
+01.1.8,"Açúcar, confeitaria e sobremesas",Total,119.0,False,3,0.5,False
+01.1.9,Alimentos pré-preparados e outros produtos alimentares n.e.,1º quintil,130.0,False,3,0.8,False
+01.1.9,Alimentos pré-preparados e outros produtos alimentares n.e.,2º quintil,127.0,False,3,0.7,False
+01.1.9,Alimentos pré-preparados e outros produtos alimentares n.e.,3º quintil,139.0,False,3,0.6,False
+01.1.9,Alimentos pré-preparados e outros produtos alimentares n.e.,4º quintil,165.0,False,3,0.6,False
+01.1.9,Alimentos pré-preparados e outros produtos alimentares n.e.,5º quintil,181.0,False,3,0.5,False
+01.1.9,Alimentos pré-preparados e outros produtos alimentares n.e.,Total,149.0,False,3,0.6,False
+01.2,Bebidas não alcoólicas,1º quintil,159.0,False,2,1.0,False
+01.2,Bebidas não alcoólicas,2º quintil,188.0,False,2,1.0,False
+01.2,Bebidas não alcoólicas,3º quintil,227.0,False,2,1.0,False
+01.2,Bebidas não alcoólicas,4º quintil,268.0,False,2,1.0,False
+01.2,Bebidas não alcoólicas,5º quintil,250.0,False,2,0.7,False
+01.2,Bebidas não alcoólicas,Total,219.0,False,2,0.9,False
+01.2.1,Sumos de fruta e de produtos hortícolas,1º quintil,17.0,False,3,0.1,False
+01.2.1,Sumos de fruta e de produtos hortícolas,2º quintil,18.0,False,3,0.1,False
+01.2.1,Sumos de fruta e de produtos hortícolas,3º quintil,24.0,False,3,0.1,False
+01.2.1,Sumos de fruta e de produtos hortícolas,4º quintil,23.0,False,3,0.1,False
+01.2.1,Sumos de fruta e de produtos hortícolas,5º quintil,29.0,False,3,0.1,False
+01.2.1,Sumos de fruta e de produtos hortícolas,Total,22.0,False,3,0.1,False
+01.2.2,Café e sucedâneos do café,1º quintil,60.0,False,3,0.4,False
+01.2.2,Café e sucedâneos do café,2º quintil,82.0,False,3,0.4,False
+01.2.2,Café e sucedâneos do café,3º quintil,93.0,False,3,0.4,False
+01.2.2,Café e sucedâneos do café,4º quintil,129.0,False,3,0.5,False
+01.2.2,Café e sucedâneos do café,5º quintil,104.0,False,3,0.3,False
+01.2.2,Café e sucedâneos do café,Total,94.0,False,3,0.4,False
+01.2.3,"Chá, mate e outros produtos vegetais para infusão",1º quintil,13.0,False,3,0.1,False
+01.2.3,"Chá, mate e outros produtos vegetais para infusão",2º quintil,18.0,False,3,0.1,False
+01.2.3,"Chá, mate e outros produtos vegetais para infusão",3º quintil,19.0,False,3,0.1,False
+01.2.3,"Chá, mate e outros produtos vegetais para infusão",4º quintil,24.0,False,3,0.1,False
+01.2.3,"Chá, mate e outros produtos vegetais para infusão",5º quintil,17.0,False,3,0.0,False
+01.2.3,"Chá, mate e outros produtos vegetais para infusão",Total,18.0,False,3,0.1,False
+01.2.4,Bebidas de cacau,1º quintil,3.0,True,3,0.0,True
+01.2.4,Bebidas de cacau,2º quintil,3.0,False,3,0.0,False
+01.2.4,Bebidas de cacau,3º quintil,,False,3,,False
+01.2.4,Bebidas de cacau,4º quintil,2.0,True,3,0.0,True
+01.2.4,Bebidas de cacau,5º quintil,2.0,False,3,0.0,False
+01.2.4,Bebidas de cacau,Total,3.0,False,3,0.0,False
+01.2.5,Água,1º quintil,28.0,False,3,0.2,False
+01.2.5,Água,2º quintil,34.0,False,3,0.2,False
+01.2.5,Água,3º quintil,48.0,False,3,0.2,False
+01.2.5,Água,4º quintil,51.0,False,3,0.2,False
+01.2.5,Água,5º quintil,58.0,False,3,0.2,False
+01.2.5,Água,Total,44.0,False,3,0.2,False
+01.2.6,Refrigerantes,1º quintil,32.0,False,3,0.2,False
+01.2.6,Refrigerantes,2º quintil,29.0,False,3,0.2,False
+01.2.6,Refrigerantes,3º quintil,33.0,False,3,0.2,False
+01.2.6,Refrigerantes,4º quintil,34.0,False,3,0.1,False
+01.2.6,Refrigerantes,5º quintil,31.0,False,3,0.1,False
+01.2.6,Refrigerantes,Total,32.0,False,3,0.1,False
+01.2.9,Outras bebidas não alcoólicas,1º quintil,6.0,False,3,0.0,False
+01.2.9,Outras bebidas não alcoólicas,2º quintil,4.0,True,3,0.0,True
+01.2.9,Outras bebidas não alcoólicas,3º quintil,5.0,False,3,0.0,False
+01.2.9,Outras bebidas não alcoólicas,4º quintil,5.0,True,3,0.0,True
+01.2.9,Outras bebidas não alcoólicas,5º quintil,9.0,False,3,0.0,False
+01.2.9,Outras bebidas não alcoólicas,Total,6.0,False,3,0.0,False
+01.3,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,1º quintil,,False,2,,False
+01.3,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,2º quintil,,False,2,,False
+01.3,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,3º quintil,,False,2,,False
+01.3,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,4º quintil,,False,2,,False
+01.3,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,5º quintil,,False,2,,False
+01.3,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,Total,,False,2,,False
+01.3.0,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,1º quintil,,False,3,,False
+01.3.0,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,2º quintil,,False,3,,False
+01.3.0,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,3º quintil,,False,3,,False
+01.3.0,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,4º quintil,,False,3,,False
+01.3.0,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,5º quintil,,False,3,,False
+01.3.0,Serviços para transformação de bens primários para produtos alimentares e bebidas não alcoólicas,Total,,False,3,,False
+02,"Bebidas alcoólicas, tabaco e narcóticos",1º quintil,300.0,False,1,1.8,False
+02,"Bebidas alcoólicas, tabaco e narcóticos",2º quintil,308.0,False,1,1.7,False
+02,"Bebidas alcoólicas, tabaco e narcóticos",3º quintil,365.0,False,1,1.6,False
+02,"Bebidas alcoólicas, tabaco e narcóticos",4º quintil,471.0,False,1,1.8,False
+02,"Bebidas alcoólicas, tabaco e narcóticos",5º quintil,426.0,False,1,1.2,False
+02,"Bebidas alcoólicas, tabaco e narcóticos",Total,375.0,False,1,1.6,False
+02.1,Bebidas alcoólicas,1º quintil,99.0,False,2,0.6,False
+02.1,Bebidas alcoólicas,2º quintil,123.0,False,2,0.7,False
+02.1,Bebidas alcoólicas,3º quintil,177.0,False,2,0.8,False
+02.1,Bebidas alcoólicas,4º quintil,207.0,False,2,0.8,False
+02.1,Bebidas alcoólicas,5º quintil,239.0,False,2,0.7,False
+02.1,Bebidas alcoólicas,Total,171.0,False,2,0.7,False
+02.1.1,Bebidas espirituosas e licores,1º quintil,7.0,True,3,0.0,True
+02.1.1,Bebidas espirituosas e licores,2º quintil,10.0,True,3,0.1,True
+02.1.1,Bebidas espirituosas e licores,3º quintil,14.0,False,3,0.1,False
+02.1.1,Bebidas espirituosas e licores,4º quintil,17.0,False,3,0.1,False
+02.1.1,Bebidas espirituosas e licores,5º quintil,26.0,False,3,0.1,False
+02.1.1,Bebidas espirituosas e licores,Total,15.0,False,3,0.1,False
+02.1.2,Vinhos,1º quintil,60.0,False,3,0.4,False
+02.1.2,Vinhos,2º quintil,77.0,False,3,0.4,False
+02.1.2,Vinhos,3º quintil,112.0,False,3,0.5,False
+02.1.2,Vinhos,4º quintil,133.0,False,3,0.5,False
+02.1.2,Vinhos,5º quintil,170.0,False,3,0.5,False
+02.1.2,Vinhos,Total,112.0,False,3,0.5,False
+02.1.3,Cerveja,1º quintil,30.0,False,3,0.2,False
+02.1.3,Cerveja,2º quintil,35.0,False,3,0.2,False
+02.1.3,Cerveja,3º quintil,50.0,False,3,0.2,False
+02.1.3,Cerveja,4º quintil,57.0,False,3,0.2,False
+02.1.3,Cerveja,5º quintil,43.0,False,3,0.1,False
+02.1.3,Cerveja,Total,43.0,False,3,0.2,False
+02.1.9,Outras bebidas alcoólicas,1º quintil,,False,3,,False
+02.1.9,Outras bebidas alcoólicas,2º quintil,,False,3,,False
+02.1.9,Outras bebidas alcoólicas,3º quintil,,False,3,,False
+02.1.9,Outras bebidas alcoólicas,4º quintil,,False,3,,False
+02.1.9,Outras bebidas alcoólicas,5º quintil,,False,3,,False
+02.1.9,Outras bebidas alcoólicas,Total,1.0,True,3,0.0,True
+02.2,Serviços de produção de álcool,1º quintil,,False,2,,False
+02.2,Serviços de produção de álcool,2º quintil,,False,2,,False
+02.2,Serviços de produção de álcool,3º quintil,,False,2,,False
+02.2,Serviços de produção de álcool,4º quintil,,False,2,,False
+02.2,Serviços de produção de álcool,5º quintil,,False,2,,False
+02.2,Serviços de produção de álcool,Total,,False,2,,False
+02.2.1,Serviços de produção de álcool,1º quintil,,False,3,,False
+02.2.1,Serviços de produção de álcool,2º quintil,,False,3,,False
+02.2.1,Serviços de produção de álcool,3º quintil,,False,3,,False
+02.2.1,Serviços de produção de álcool,4º quintil,,False,3,,False
+02.2.1,Serviços de produção de álcool,5º quintil,,False,3,,False
+02.2.1,Serviços de produção de álcool,Total,,False,3,,False
+02.3,Tabaco,1º quintil,200.0,False,2,1.2,False
+02.3,Tabaco,2º quintil,185.0,False,2,1.0,False
+02.3,Tabaco,3º quintil,188.0,False,2,0.8,False
+02.3,Tabaco,4º quintil,264.0,False,2,1.0,False
+02.3,Tabaco,5º quintil,187.0,False,2,0.5,False
+02.3,Tabaco,Total,204.0,False,2,0.9,False
+02.3.0,Tabaco,1º quintil,200.0,False,3,1.2,False
+02.3.0,Tabaco,2º quintil,185.0,False,3,1.0,False
+02.3.0,Tabaco,3º quintil,188.0,False,3,0.8,False
+02.3.0,Tabaco,4º quintil,264.0,False,3,1.0,False
+02.3.0,Tabaco,5º quintil,187.0,False,3,0.5,False
+02.3.0,Tabaco,Total,204.0,False,3,0.9,False
+02.4,Narcóticos,1º quintil,,False,2,,False
+02.4,Narcóticos,2º quintil,,False,2,,False
+02.4,Narcóticos,3º quintil,,False,2,,False
+02.4,Narcóticos,4º quintil,,False,2,,False
+02.4,Narcóticos,5º quintil,,False,2,,False
+02.4,Narcóticos,Total,,False,2,,False
+02.4.0,Narcóticos,1º quintil,,False,3,,False
+02.4.0,Narcóticos,2º quintil,,False,3,,False
+02.4.0,Narcóticos,3º quintil,,False,3,,False
+02.4.0,Narcóticos,4º quintil,,False,3,,False
+02.4.0,Narcóticos,5º quintil,,False,3,,False
+02.4.0,Narcóticos,Total,,False,3,,False
+03,Vestuário e calçado,1º quintil,266.0,False,1,1.6,False
+03,Vestuário e calçado,2º quintil,311.0,False,1,1.7,False
+03,Vestuário e calçado,3º quintil,380.0,False,1,1.7,False
+03,Vestuário e calçado,4º quintil,389.0,False,1,1.5,False
+03,Vestuário e calçado,5º quintil,556.0,False,1,1.6,False
+03,Vestuário e calçado,Total,385.0,False,1,1.6,False
+03.1,Vestuário,1º quintil,200.0,False,2,1.2,False
+03.1,Vestuário,2º quintil,247.0,False,2,1.3,False
+03.1,Vestuário,3º quintil,302.0,False,2,1.4,False
+03.1,Vestuário,4º quintil,305.0,False,2,1.2,False
+03.1,Vestuário,5º quintil,461.0,False,2,1.3,False
+03.1,Vestuário,Total,307.0,False,2,1.3,False
+03.1.1,Materiais para vestuário,1º quintil,,False,3,,False
+03.1.1,Materiais para vestuário,2º quintil,,False,3,,False
+03.1.1,Materiais para vestuário,3º quintil,,False,3,,False
+03.1.1,Materiais para vestuário,4º quintil,,False,3,,False
+03.1.1,Materiais para vestuário,5º quintil,,False,3,,False
+03.1.1,Materiais para vestuário,Total,2.0,True,3,0.0,True
+03.1.2,Peças de vestuário,1º quintil,193.0,False,3,1.2,False
+03.1.2,Peças de vestuário,2º quintil,234.0,False,3,1.3,False
+03.1.2,Peças de vestuário,3º quintil,289.0,False,3,1.3,False
+03.1.2,Peças de vestuário,4º quintil,291.0,False,3,1.1,False
+03.1.2,Peças de vestuário,5º quintil,428.0,False,3,1.2,False
+03.1.2,Peças de vestuário,Total,291.0,False,3,1.2,False
+03.1.3,Outros artigos e acessórios de vestuário,1º quintil,3.0,False,3,0.0,False
+03.1.3,Outros artigos e acessórios de vestuário,2º quintil,3.0,False,3,0.0,False
+03.1.3,Outros artigos e acessórios de vestuário,3º quintil,4.0,False,3,0.0,False
+03.1.3,Outros artigos e acessórios de vestuário,4º quintil,4.0,False,3,0.0,False
+03.1.3,Outros artigos e acessórios de vestuário,5º quintil,7.0,True,3,0.0,True
+03.1.3,Outros artigos e acessórios de vestuário,Total,4.0,False,3,0.0,False
+03.1.4,"Limpeza, reparação, costura e aluguer de vestuário",1º quintil,3.0,True,3,0.0,True
+03.1.4,"Limpeza, reparação, costura e aluguer de vestuário",2º quintil,8.0,True,3,0.0,True
+03.1.4,"Limpeza, reparação, costura e aluguer de vestuário",3º quintil,5.0,False,3,0.0,False
+03.1.4,"Limpeza, reparação, costura e aluguer de vestuário",4º quintil,8.0,False,3,0.0,False
+03.1.4,"Limpeza, reparação, costura e aluguer de vestuário",5º quintil,22.0,False,3,0.1,False
+03.1.4,"Limpeza, reparação, costura e aluguer de vestuário",Total,10.0,False,3,0.0,False
+03.2,Calçado,1º quintil,65.0,False,2,0.4,False
+03.2,Calçado,2º quintil,65.0,False,2,0.4,False
+03.2,Calçado,3º quintil,78.0,False,2,0.3,False
+03.2,Calçado,4º quintil,85.0,False,2,0.3,False
+03.2,Calçado,5º quintil,95.0,False,2,0.3,False
+03.2,Calçado,Total,78.0,False,2,0.3,False
+03.2.1,Sapatos e outro tipo de calçado,1º quintil,65.0,False,3,0.4,False
+03.2.1,Sapatos e outro tipo de calçado,2º quintil,64.0,False,3,0.4,False
+03.2.1,Sapatos e outro tipo de calçado,3º quintil,77.0,False,3,0.3,False
+03.2.1,Sapatos e outro tipo de calçado,4º quintil,84.0,False,3,0.3,False
+03.2.1,Sapatos e outro tipo de calçado,5º quintil,94.0,False,3,0.3,False
+03.2.1,Sapatos e outro tipo de calçado,Total,78.0,False,3,0.3,False
+03.2.2,"Limpeza, reparação e aluguer de calçado",1º quintil,0.0,True,3,0.0,True
+03.2.2,"Limpeza, reparação e aluguer de calçado",2º quintil,,False,3,,False
+03.2.2,"Limpeza, reparação e aluguer de calçado",3º quintil,0.0,True,3,0.0,True
+03.2.2,"Limpeza, reparação e aluguer de calçado",4º quintil,,False,3,,False
+03.2.2,"Limpeza, reparação e aluguer de calçado",5º quintil,1.0,True,3,0.0,True
+03.2.2,"Limpeza, reparação e aluguer de calçado",Total,0.0,False,3,0.0,False
+04,"Habitação, água, eletricidade, gás e outros combustíveis",1º quintil,6754.0,False,1,41.4,False
+04,"Habitação, água, eletricidade, gás e outros combustíveis",2º quintil,7267.0,False,1,39.8,False
+04,"Habitação, água, eletricidade, gás e outros combustíveis",3º quintil,8353.0,False,1,37.6,False
+04,"Habitação, água, eletricidade, gás e outros combustíveis",4º quintil,9855.0,False,1,37.6,False
+04,"Habitação, água, eletricidade, gás e outros combustíveis",5º quintil,14024.0,False,1,40.1,False
+04,"Habitação, água, eletricidade, gás e outros combustíveis",Total,9390.0,False,1,39.3,False
+04.1,Rendas efetivas da habitação,1º quintil,860.0,False,2,5.3,False
+04.1,Rendas efetivas da habitação,2º quintil,908.0,False,2,5.0,False
+04.1,Rendas efetivas da habitação,3º quintil,833.0,False,2,3.8,False
+04.1,Rendas efetivas da habitação,4º quintil,731.0,False,2,2.8,False
+04.1,Rendas efetivas da habitação,5º quintil,763.0,False,2,2.2,False
+04.1,Rendas efetivas da habitação,Total,818.0,False,2,3.4,False
+04.1.1,Rendas efetivamente pagas pelos inquilinos pela residência principal,1º quintil,801.0,False,3,4.9,False
+04.1.1,Rendas efetivamente pagas pelos inquilinos pela residência principal,2º quintil,865.0,False,3,4.7,False
+04.1.1,Rendas efetivamente pagas pelos inquilinos pela residência principal,3º quintil,762.0,False,3,3.4,False
+04.1.1,Rendas efetivamente pagas pelos inquilinos pela residência principal,4º quintil,643.0,False,3,2.5,False
+04.1.1,Rendas efetivamente pagas pelos inquilinos pela residência principal,5º quintil,630.0,False,3,1.8,False
+04.1.1,Rendas efetivamente pagas pelos inquilinos pela residência principal,Total,738.0,False,3,3.1,False
+04.1.2,Outras rendas efetivas,1º quintil,,False,3,,False
+04.1.2,Outras rendas efetivas,2º quintil,43.0,True,3,0.2,True
+04.1.2,Outras rendas efetivas,3º quintil,,False,3,,False
+04.1.2,Outras rendas efetivas,4º quintil,88.0,True,3,0.3,True
+04.1.2,Outras rendas efetivas,5º quintil,133.0,True,3,0.4,True
+04.1.2,Outras rendas efetivas,Total,80.0,False,3,0.3,False
+04.2,Rendas subjetivas da habitação,1º quintil,4325.0,False,2,26.5,False
+04.2,Rendas subjetivas da habitação,2º quintil,4642.0,False,2,25.4,False
+04.2,Rendas subjetivas da habitação,3º quintil,5645.0,False,2,25.4,False
+04.2,Rendas subjetivas da habitação,4º quintil,6981.0,False,2,26.7,False
+04.2,Rendas subjetivas da habitação,5º quintil,10507.0,False,2,30.0,False
+04.2,Rendas subjetivas da habitação,Total,6539.0,False,2,27.4,False
+04.2.1,Rendas subjetivas dos proprietários-ocupantes pela residência principal,1º quintil,3638.0,False,3,22.3,False
+04.2.1,Rendas subjetivas dos proprietários-ocupantes pela residência principal,2º quintil,4121.0,False,3,22.6,False
+04.2.1,Rendas subjetivas dos proprietários-ocupantes pela residência principal,3º quintil,5182.0,False,3,23.4,False
+04.2.1,Rendas subjetivas dos proprietários-ocupantes pela residência principal,4º quintil,6410.0,False,3,24.5,False
+04.2.1,Rendas subjetivas dos proprietários-ocupantes pela residência principal,5º quintil,9499.0,False,3,27.1,False
+04.2.1,Rendas subjetivas dos proprietários-ocupantes pela residência principal,Total,5876.0,False,3,24.6,False
+04.2.2,Outras rendas subjetivas,1º quintil,686.0,False,3,4.2,False
+04.2.2,Outras rendas subjetivas,2º quintil,521.0,False,3,2.9,False
+04.2.2,Outras rendas subjetivas,3º quintil,463.0,False,3,2.1,False
+04.2.2,Outras rendas subjetivas,4º quintil,571.0,False,3,2.2,False
+04.2.2,Outras rendas subjetivas,5º quintil,1008.0,False,3,2.9,False
+04.2.2,Outras rendas subjetivas,Total,663.0,False,3,2.8,False
+04.3,"Manutenção, reparação e segurança das habitações",1º quintil,146.0,False,2,0.9,False
+04.3,"Manutenção, reparação e segurança das habitações",2º quintil,248.0,True,2,1.4,True
+04.3,"Manutenção, reparação e segurança das habitações",3º quintil,251.0,False,2,1.1,False
+04.3,"Manutenção, reparação e segurança das habitações",4º quintil,286.0,False,2,1.1,False
+04.3,"Manutenção, reparação e segurança das habitações",5º quintil,610.0,False,2,1.7,False
+04.3,"Manutenção, reparação e segurança das habitações",Total,317.0,False,2,1.3,False
+04.3.1,Materiais para a manutenção e reparação das habitações,1º quintil,,False,3,,False
+04.3.1,Materiais para a manutenção e reparação das habitações,2º quintil,,False,3,,False
+04.3.1,Materiais para a manutenção e reparação das habitações,3º quintil,108.0,False,3,0.5,False
+04.3.1,Materiais para a manutenção e reparação das habitações,4º quintil,138.0,True,3,0.5,True
+04.3.1,Materiais para a manutenção e reparação das habitações,5º quintil,257.0,True,3,0.7,True
+04.3.1,Materiais para a manutenção e reparação das habitações,Total,150.0,False,3,0.6,False
+04.3.2,"Serviços para a manutenção, reparação e segurança das habitações",1º quintil,63.0,True,3,0.4,True
+04.3.2,"Serviços para a manutenção, reparação e segurança das habitações",2º quintil,103.0,False,3,0.6,False
+04.3.2,"Serviços para a manutenção, reparação e segurança das habitações",3º quintil,143.0,False,3,0.6,False
+04.3.2,"Serviços para a manutenção, reparação e segurança das habitações",4º quintil,149.0,False,3,0.6,False
+04.3.2,"Serviços para a manutenção, reparação e segurança das habitações",5º quintil,353.0,False,3,1.0,False
+04.3.2,"Serviços para a manutenção, reparação e segurança das habitações",Total,168.0,False,3,0.7,False
+04.4,Abastecimento de água e serviços diversos relacionados com a habitação,1º quintil,413.0,False,2,2.5,False
+04.4,Abastecimento de água e serviços diversos relacionados com a habitação,2º quintil,404.0,False,2,2.2,False
+04.4,Abastecimento de água e serviços diversos relacionados com a habitação,3º quintil,458.0,False,2,2.1,False
+04.4,Abastecimento de água e serviços diversos relacionados com a habitação,4º quintil,601.0,False,2,2.3,False
+04.4,Abastecimento de água e serviços diversos relacionados com a habitação,5º quintil,819.0,False,2,2.3,False
+04.4,Abastecimento de água e serviços diversos relacionados com a habitação,Total,548.0,False,2,2.3,False
+04.4.1,Abastecimento de água,1º quintil,280.0,False,3,1.7,False
+04.4.1,Abastecimento de água,2º quintil,287.0,False,3,1.6,False
+04.4.1,Abastecimento de água,3º quintil,306.0,False,3,1.4,False
+04.4.1,Abastecimento de água,4º quintil,344.0,False,3,1.3,False
+04.4.1,Abastecimento de água,5º quintil,370.0,False,3,1.1,False
+04.4.1,Abastecimento de água,Total,319.0,False,3,1.3,False
+04.4.2,Recolha de resíduos sólidos,1º quintil,2.0,False,3,0.0,False
+04.4.2,Recolha de resíduos sólidos,2º quintil,3.0,True,3,0.0,True
+04.4.2,Recolha de resíduos sólidos,3º quintil,2.0,True,3,0.0,True
+04.4.2,Recolha de resíduos sólidos,4º quintil,2.0,True,3,0.0,True
+04.4.2,Recolha de resíduos sólidos,5º quintil,1.0,True,3,0.0,True
+04.4.2,Recolha de resíduos sólidos,Total,2.0,False,3,0.0,False
+04.4.3,Recolha de esgotos,1º quintil,4.0,True,3,0.0,True
+04.4.3,Recolha de esgotos,2º quintil,5.0,True,3,0.0,True
+04.4.3,Recolha de esgotos,3º quintil,4.0,True,3,0.0,True
+04.4.3,Recolha de esgotos,4º quintil,4.0,True,3,0.0,True
+04.4.3,Recolha de esgotos,5º quintil,6.0,True,3,0.0,True
+04.4.3,Recolha de esgotos,Total,4.0,False,3,0.0,False
+04.4.4,Outros serviços relacionados com a habitação n.e.,1º quintil,126.0,True,3,0.8,True
+04.4.4,Outros serviços relacionados com a habitação n.e.,2º quintil,110.0,False,3,0.6,False
+04.4.4,Outros serviços relacionados com a habitação n.e.,3º quintil,147.0,False,3,0.7,False
+04.4.4,Outros serviços relacionados com a habitação n.e.,4º quintil,253.0,False,3,1.0,False
+04.4.4,Outros serviços relacionados com a habitação n.e.,5º quintil,443.0,False,3,1.3,False
+04.4.4,Outros serviços relacionados com a habitação n.e.,Total,223.0,False,3,0.9,False
+04.5,"Eletricidade, gás e outros combustíveis",1º quintil,1010.0,False,2,6.2,False
+04.5,"Eletricidade, gás e outros combustíveis",2º quintil,1065.0,False,2,5.8,False
+04.5,"Eletricidade, gás e outros combustíveis",3º quintil,1165.0,False,2,5.3,False
+04.5,"Eletricidade, gás e outros combustíveis",4º quintil,1255.0,False,2,4.8,False
+04.5,"Eletricidade, gás e outros combustíveis",5º quintil,1326.0,False,2,3.8,False
+04.5,"Eletricidade, gás e outros combustíveis",Total,1168.0,False,2,4.9,False
+04.5.1,Eletricidade,1º quintil,638.0,False,3,3.9,False
+04.5.1,Eletricidade,2º quintil,701.0,False,3,3.8,False
+04.5.1,Eletricidade,3º quintil,783.0,False,3,3.5,False
+04.5.1,Eletricidade,4º quintil,874.0,False,3,3.3,False
+04.5.1,Eletricidade,5º quintil,1014.0,False,3,2.9,False
+04.5.1,Eletricidade,Total,807.0,False,3,3.4,False
+04.5.2,Gás,1º quintil,287.0,False,3,1.8,False
+04.5.2,Gás,2º quintil,275.0,False,3,1.5,False
+04.5.2,Gás,3º quintil,292.0,False,3,1.3,False
+04.5.2,Gás,4º quintil,259.0,False,3,1.0,False
+04.5.2,Gás,5º quintil,204.0,False,3,0.6,False
+04.5.2,Gás,Total,261.0,False,3,1.1,False
+04.5.3,Combustíveis líquidos,1º quintil,,False,3,,False
+04.5.3,Combustíveis líquidos,2º quintil,,False,3,,False
+04.5.3,Combustíveis líquidos,3º quintil,19.0,True,3,0.1,True
+04.5.3,Combustíveis líquidos,4º quintil,27.0,True,3,0.1,True
+04.5.3,Combustíveis líquidos,5º quintil,33.0,True,3,0.1,True
+04.5.3,Combustíveis líquidos,Total,20.0,False,3,0.1,False
+04.5.4,Combustíveis sólidos,1º quintil,78.0,False,3,0.5,False
+04.5.4,Combustíveis sólidos,2º quintil,77.0,False,3,0.4,False
+04.5.4,Combustíveis sólidos,3º quintil,70.0,False,3,0.3,False
+04.5.4,Combustíveis sólidos,4º quintil,95.0,False,3,0.4,False
+04.5.4,Combustíveis sólidos,5º quintil,75.0,False,3,0.2,False
+04.5.4,Combustíveis sólidos,Total,79.0,False,3,0.3,False
+04.5.5,Outra energia para aquecimento e refrigeração,1º quintil,,False,3,,False
+04.5.5,Outra energia para aquecimento e refrigeração,2º quintil,,False,3,,False
+04.5.5,Outra energia para aquecimento e refrigeração,3º quintil,,False,3,,False
+04.5.5,Outra energia para aquecimento e refrigeração,4º quintil,,False,3,,False
+04.5.5,Outra energia para aquecimento e refrigeração,5º quintil,,False,3,,False
+04.5.5,Outra energia para aquecimento e refrigeração,Total,,False,3,,False
+05,"Acessórios para o lar, equipamento doméstico e manutenção corrente da habitação",1º quintil,498.0,False,1,3.1,False
+05,"Acessórios para o lar, equipamento doméstico e manutenção corrente da habitação",2º quintil,683.0,False,1,3.7,False
+05,"Acessórios para o lar, equipamento doméstico e manutenção corrente da habitação",3º quintil,792.0,False,1,3.6,False
+05,"Acessórios para o lar, equipamento doméstico e manutenção corrente da habitação",4º quintil,1068.0,False,1,4.1,False
+05,"Acessórios para o lar, equipamento doméstico e manutenção corrente da habitação",5º quintil,2172.0,False,1,6.2,False
+05,"Acessórios para o lar, equipamento doméstico e manutenção corrente da habitação",Total,1077.0,False,1,4.5,False
+05.1,"Mobiliário, acessórios e carpetes",1º quintil,49.0,False,2,0.3,False
+05.1,"Mobiliário, acessórios e carpetes",2º quintil,92.0,False,2,0.5,False
+05.1,"Mobiliário, acessórios e carpetes",3º quintil,160.0,False,2,0.7,False
+05.1,"Mobiliário, acessórios e carpetes",4º quintil,210.0,False,2,0.8,False
+05.1,"Mobiliário, acessórios e carpetes",5º quintil,285.0,False,2,0.8,False
+05.1,"Mobiliário, acessórios e carpetes",Total,162.0,False,2,0.7,False
+05.1.1,"Mobiliário, acessórios e carpetes",1º quintil,49.0,False,3,0.3,False
+05.1.1,"Mobiliário, acessórios e carpetes",2º quintil,92.0,False,3,0.5,False
+05.1.1,"Mobiliário, acessórios e carpetes",3º quintil,159.0,False,3,0.7,False
+05.1.1,"Mobiliário, acessórios e carpetes",4º quintil,208.0,False,3,0.8,False
+05.1.1,"Mobiliário, acessórios e carpetes",5º quintil,280.0,False,3,0.8,False
+05.1.1,"Mobiliário, acessórios e carpetes",Total,160.0,False,3,0.7,False
+05.1.2,"Reparação, instalação e aluguer de mobiliário, acessórios e carpetes",1º quintil,,False,3,,False
+05.1.2,"Reparação, instalação e aluguer de mobiliário, acessórios e carpetes",2º quintil,,False,3,,False
+05.1.2,"Reparação, instalação e aluguer de mobiliário, acessórios e carpetes",3º quintil,,False,3,,False
+05.1.2,"Reparação, instalação e aluguer de mobiliário, acessórios e carpetes",4º quintil,,False,3,,False
+05.1.2,"Reparação, instalação e aluguer de mobiliário, acessórios e carpetes",5º quintil,,False,3,,False
+05.1.2,"Reparação, instalação e aluguer de mobiliário, acessórios e carpetes",Total,2.0,True,3,0.0,True
+05.2,Têxteis de uso doméstico,1º quintil,14.0,False,2,0.1,False
+05.2,Têxteis de uso doméstico,2º quintil,23.0,False,2,0.1,False
+05.2,Têxteis de uso doméstico,3º quintil,22.0,False,2,0.1,False
+05.2,Têxteis de uso doméstico,4º quintil,29.0,False,2,0.1,False
+05.2,Têxteis de uso doméstico,5º quintil,43.0,False,2,0.1,False
+05.2,Têxteis de uso doméstico,Total,27.0,False,2,0.1,False
+05.2.1,Têxteis de uso doméstico,1º quintil,14.0,False,3,0.1,False
+05.2.1,Têxteis de uso doméstico,2º quintil,23.0,False,3,0.1,False
+05.2.1,Têxteis de uso doméstico,3º quintil,22.0,False,3,0.1,False
+05.2.1,Têxteis de uso doméstico,4º quintil,29.0,False,3,0.1,False
+05.2.1,Têxteis de uso doméstico,5º quintil,43.0,False,3,0.1,False
+05.2.1,Têxteis de uso doméstico,Total,26.0,False,3,0.1,False
+05.2.2,"Reparação, aluguer e serviços de costura de artigos têxteis para o lar",1º quintil,,False,3,,False
+05.2.2,"Reparação, aluguer e serviços de costura de artigos têxteis para o lar",2º quintil,,False,3,,False
+05.2.2,"Reparação, aluguer e serviços de costura de artigos têxteis para o lar",3º quintil,,False,3,,False
+05.2.2,"Reparação, aluguer e serviços de costura de artigos têxteis para o lar",4º quintil,,False,3,,False
+05.2.2,"Reparação, aluguer e serviços de costura de artigos têxteis para o lar",5º quintil,,False,3,,False
+05.2.2,"Reparação, aluguer e serviços de costura de artigos têxteis para o lar",Total,0.0,True,3,0.0,True
+05.3,Eletrodomésticos,1º quintil,125.0,False,2,0.8,False
+05.3,Eletrodomésticos,2º quintil,153.0,False,2,0.8,False
+05.3,Eletrodomésticos,3º quintil,237.0,False,2,1.1,False
+05.3,Eletrodomésticos,4º quintil,280.0,False,2,1.1,False
+05.3,Eletrodomésticos,5º quintil,326.0,False,2,0.9,False
+05.3,Eletrodomésticos,Total,226.0,False,2,0.9,False
+05.3.1,"Equipamento doméstico de base, elétrico ou não",1º quintil,97.0,False,3,0.6,False
+05.3.1,"Equipamento doméstico de base, elétrico ou não",2º quintil,130.0,False,3,0.7,False
+05.3.1,"Equipamento doméstico de base, elétrico ou não",3º quintil,204.0,False,3,0.9,False
+05.3.1,"Equipamento doméstico de base, elétrico ou não",4º quintil,250.0,False,3,1.0,False
+05.3.1,"Equipamento doméstico de base, elétrico ou não",5º quintil,279.0,False,3,0.8,False
+05.3.1,"Equipamento doméstico de base, elétrico ou não",Total,194.0,False,3,0.8,False
+05.3.2,Pequenos utensílios elétricos de uso doméstico,1º quintil,,False,3,,False
+05.3.2,Pequenos utensílios elétricos de uso doméstico,2º quintil,19.0,False,3,0.1,False
+05.3.2,Pequenos utensílios elétricos de uso doméstico,3º quintil,29.0,False,3,0.1,False
+05.3.2,Pequenos utensílios elétricos de uso doméstico,4º quintil,23.0,False,3,0.1,False
+05.3.2,Pequenos utensílios elétricos de uso doméstico,5º quintil,36.0,False,3,0.1,False
+05.3.2,Pequenos utensílios elétricos de uso doméstico,Total,27.0,False,3,0.1,False
+05.3.3,"Reparação, instalação e aluguer de equipamento doméstico",1º quintil,,False,3,,False
+05.3.3,"Reparação, instalação e aluguer de equipamento doméstico",2º quintil,4.0,True,3,0.0,True
+05.3.3,"Reparação, instalação e aluguer de equipamento doméstico",3º quintil,4.0,True,3,0.0,True
+05.3.3,"Reparação, instalação e aluguer de equipamento doméstico",4º quintil,,False,3,,False
+05.3.3,"Reparação, instalação e aluguer de equipamento doméstico",5º quintil,11.0,False,3,0.0,False
+05.3.3,"Reparação, instalação e aluguer de equipamento doméstico",Total,6.0,False,3,0.0,False
+05.4,"Vidros, loiças e outros utensílios de uso doméstico",1º quintil,5.0,False,2,0.0,False
+05.4,"Vidros, loiças e outros utensílios de uso doméstico",2º quintil,10.0,False,2,0.1,False
+05.4,"Vidros, loiças e outros utensílios de uso doméstico",3º quintil,12.0,True,2,0.1,True
+05.4,"Vidros, loiças e outros utensílios de uso doméstico",4º quintil,17.0,True,2,0.1,True
+05.4,"Vidros, loiças e outros utensílios de uso doméstico",5º quintil,,False,2,,False
+05.4,"Vidros, loiças e outros utensílios de uso doméstico",Total,14.0,False,2,0.1,False
+05.4.0,"Vidros, loiças e outros utensílios de uso doméstico",1º quintil,5.0,False,3,0.0,False
+05.4.0,"Vidros, loiças e outros utensílios de uso doméstico",2º quintil,10.0,False,3,0.1,False
+05.4.0,"Vidros, loiças e outros utensílios de uso doméstico",3º quintil,12.0,True,3,0.1,True
+05.4.0,"Vidros, loiças e outros utensílios de uso doméstico",4º quintil,17.0,True,3,0.1,True
+05.4.0,"Vidros, loiças e outros utensílios de uso doméstico",5º quintil,,False,3,,False
+05.4.0,"Vidros, loiças e outros utensílios de uso doméstico",Total,14.0,False,3,0.1,False
+05.5,Ferramentas e equipamento para casa e jardim,1º quintil,7.0,True,2,0.0,True
+05.5,Ferramentas e equipamento para casa e jardim,2º quintil,10.0,True,2,0.1,True
+05.5,Ferramentas e equipamento para casa e jardim,3º quintil,9.0,False,2,0.0,False
+05.5,Ferramentas e equipamento para casa e jardim,4º quintil,14.0,False,2,0.1,False
+05.5,Ferramentas e equipamento para casa e jardim,5º quintil,21.0,True,2,0.1,True
+05.5,Ferramentas e equipamento para casa e jardim,Total,12.0,False,2,0.1,False
+05.5.1,Ferramentas e equipamento motorizado,1º quintil,3.0,True,3,0.0,True
+05.5.1,Ferramentas e equipamento motorizado,2º quintil,,False,3,,False
+05.5.1,Ferramentas e equipamento motorizado,3º quintil,4.0,True,3,0.0,True
+05.5.1,Ferramentas e equipamento motorizado,4º quintil,,False,3,,False
+05.5.1,Ferramentas e equipamento motorizado,5º quintil,10.0,True,3,0.0,True
+05.5.1,Ferramentas e equipamento motorizado,Total,6.0,False,3,0.0,False
+05.5.2,Ferramentas não motorizadas e acessórios diversos,1º quintil,,False,3,,False
+05.5.2,Ferramentas não motorizadas e acessórios diversos,2º quintil,,False,3,,False
+05.5.2,Ferramentas não motorizadas e acessórios diversos,3º quintil,4.0,False,3,0.0,False
+05.5.2,Ferramentas não motorizadas e acessórios diversos,4º quintil,6.0,False,3,0.0,False
+05.5.2,Ferramentas não motorizadas e acessórios diversos,5º quintil,9.0,False,3,0.0,False
+05.5.2,Ferramentas não motorizadas e acessórios diversos,Total,5.0,False,3,0.0,False
+05.5.3,Reparação e aluguer de ferramentas e equipamento motorizado e não motorizado,1º quintil,,False,3,,False
+05.5.3,Reparação e aluguer de ferramentas e equipamento motorizado e não motorizado,2º quintil,,False,3,,False
+05.5.3,Reparação e aluguer de ferramentas e equipamento motorizado e não motorizado,3º quintil,,False,3,,False
+05.5.3,Reparação e aluguer de ferramentas e equipamento motorizado e não motorizado,4º quintil,,False,3,,False
+05.5.3,Reparação e aluguer de ferramentas e equipamento motorizado e não motorizado,5º quintil,,False,3,,False
+05.5.3,Reparação e aluguer de ferramentas e equipamento motorizado e não motorizado,Total,,False,3,,False
+05.6,Bens e serviços para a manutenção corrente da habitação,1º quintil,298.0,False,2,1.8,False
+05.6,Bens e serviços para a manutenção corrente da habitação,2º quintil,394.0,False,2,2.2,False
+05.6,Bens e serviços para a manutenção corrente da habitação,3º quintil,352.0,False,2,1.6,False
+05.6,Bens e serviços para a manutenção corrente da habitação,4º quintil,519.0,False,2,2.0,False
+05.6,Bens e serviços para a manutenção corrente da habitação,5º quintil,1472.0,False,2,4.2,False
+05.6,Bens e serviços para a manutenção corrente da habitação,Total,635.0,False,2,2.7,False
+05.6.1,Bens de uso doméstico não duradouros,1º quintil,207.0,False,3,1.3,False
+05.6.1,Bens de uso doméstico não duradouros,2º quintil,267.0,False,3,1.5,False
+05.6.1,Bens de uso doméstico não duradouros,3º quintil,262.0,False,3,1.2,False
+05.6.1,Bens de uso doméstico não duradouros,4º quintil,288.0,False,3,1.1,False
+05.6.1,Bens de uso doméstico não duradouros,5º quintil,302.0,False,3,0.9,False
+05.6.1,Bens de uso doméstico não duradouros,Total,266.0,False,3,1.1,False
+05.6.2,Serviços domésticos e serviços relativos à habitação,1º quintil,91.0,True,3,0.6,True
+05.6.2,Serviços domésticos e serviços relativos à habitação,2º quintil,127.0,True,3,0.7,True
+05.6.2,Serviços domésticos e serviços relativos à habitação,3º quintil,90.0,False,3,0.4,False
+05.6.2,Serviços domésticos e serviços relativos à habitação,4º quintil,231.0,False,3,0.9,False
+05.6.2,Serviços domésticos e serviços relativos à habitação,5º quintil,1170.0,False,3,3.3,False
+05.6.2,Serviços domésticos e serviços relativos à habitação,Total,369.0,False,3,1.5,False
+06,Saúde,1º quintil,664.0,False,1,4.1,False
+06,Saúde,2º quintil,836.0,False,1,4.6,False
+06,Saúde,3º quintil,873.0,False,1,3.9,False
+06,Saúde,4º quintil,983.0,False,1,3.8,False
+06,Saúde,5º quintil,1201.0,False,1,3.4,False
+06,Saúde,Total,919.0,False,1,3.8,False
+06.1,Medicamentos e produtos de saúde,1º quintil,475.0,False,2,2.9,False
+06.1,Medicamentos e produtos de saúde,2º quintil,555.0,False,2,3.0,False
+06.1,Medicamentos e produtos de saúde,3º quintil,522.0,False,2,2.4,False
+06.1,Medicamentos e produtos de saúde,4º quintil,569.0,False,2,2.2,False
+06.1,Medicamentos e produtos de saúde,5º quintil,653.0,False,2,1.9,False
+06.1,Medicamentos e produtos de saúde,Total,558.0,False,2,2.3,False
+06.1.1,Medicamentos,1º quintil,340.0,False,3,2.1,False
+06.1.1,Medicamentos,2º quintil,407.0,False,3,2.2,False
+06.1.1,Medicamentos,3º quintil,351.0,False,3,1.6,False
+06.1.1,Medicamentos,4º quintil,388.0,False,3,1.5,False
+06.1.1,Medicamentos,5º quintil,376.0,False,3,1.1,False
+06.1.1,Medicamentos,Total,373.0,False,3,1.6,False
+06.1.2,Produtos médicos,1º quintil,20.0,False,3,0.1,False
+06.1.2,Produtos médicos,2º quintil,22.0,False,3,0.1,False
+06.1.2,Produtos médicos,3º quintil,19.0,False,3,0.1,False
+06.1.2,Produtos médicos,4º quintil,26.0,False,3,0.1,False
+06.1.2,Produtos médicos,5º quintil,27.0,False,3,0.1,False
+06.1.2,Produtos médicos,Total,23.0,False,3,0.1,False
+06.1.3,Produtos terapêuticos,1º quintil,115.0,False,3,0.7,False
+06.1.3,Produtos terapêuticos,2º quintil,126.0,False,3,0.7,False
+06.1.3,Produtos terapêuticos,3º quintil,151.0,False,3,0.7,False
+06.1.3,Produtos terapêuticos,4º quintil,155.0,False,3,0.6,False
+06.1.3,Produtos terapêuticos,5º quintil,245.0,False,3,0.7,False
+06.1.3,Produtos terapêuticos,Total,161.0,False,3,0.7,False
+06.1.4,"Reparação, aluguer e manutenção de produtos terapêuticos",1º quintil,,False,3,,False
+06.1.4,"Reparação, aluguer e manutenção de produtos terapêuticos",2º quintil,,False,3,,False
+06.1.4,"Reparação, aluguer e manutenção de produtos terapêuticos",3º quintil,,False,3,,False
+06.1.4,"Reparação, aluguer e manutenção de produtos terapêuticos",4º quintil,,False,3,,False
+06.1.4,"Reparação, aluguer e manutenção de produtos terapêuticos",5º quintil,,False,3,,False
+06.1.4,"Reparação, aluguer e manutenção de produtos terapêuticos",Total,,False,3,,False
+06.2,Serviços de saúde em ambulatório,1º quintil,159.0,False,2,1.0,False
+06.2,Serviços de saúde em ambulatório,2º quintil,215.0,False,2,1.2,False
+06.2,Serviços de saúde em ambulatório,3º quintil,297.0,False,2,1.3,False
+06.2,Serviços de saúde em ambulatório,4º quintil,360.0,False,2,1.4,False
+06.2,Serviços de saúde em ambulatório,5º quintil,459.0,False,2,1.3,False
+06.2,Serviços de saúde em ambulatório,Total,302.0,False,2,1.3,False
+06.2.1,"Serviços de saúde preventivos (excluindo serviços de estomatologia, medicina dentária e odontologia)",1º quintil,36.0,False,3,0.2,False
+06.2.1,"Serviços de saúde preventivos (excluindo serviços de estomatologia, medicina dentária e odontologia)",2º quintil,47.0,False,3,0.3,False
+06.2.1,"Serviços de saúde preventivos (excluindo serviços de estomatologia, medicina dentária e odontologia)",3º quintil,55.0,False,3,0.2,False
+06.2.1,"Serviços de saúde preventivos (excluindo serviços de estomatologia, medicina dentária e odontologia)",4º quintil,55.0,False,3,0.2,False
+06.2.1,"Serviços de saúde preventivos (excluindo serviços de estomatologia, medicina dentária e odontologia)",5º quintil,88.0,False,3,0.3,False
+06.2.1,"Serviços de saúde preventivos (excluindo serviços de estomatologia, medicina dentária e odontologia)",Total,57.0,False,3,0.2,False
+06.2.2,"Serviços de estomatologia, medicina dentária e odontologia em ambulatório",1º quintil,94.0,False,3,0.6,False
+06.2.2,"Serviços de estomatologia, medicina dentária e odontologia em ambulatório",2º quintil,129.0,False,3,0.7,False
+06.2.2,"Serviços de estomatologia, medicina dentária e odontologia em ambulatório",3º quintil,186.0,False,3,0.8,False
+06.2.2,"Serviços de estomatologia, medicina dentária e odontologia em ambulatório",4º quintil,239.0,False,3,0.9,False
+06.2.2,"Serviços de estomatologia, medicina dentária e odontologia em ambulatório",5º quintil,267.0,False,3,0.8,False
+06.2.2,"Serviços de estomatologia, medicina dentária e odontologia em ambulatório",Total,185.0,False,3,0.8,False
+06.2.3,"Serviços e tratamentos de medicina curativa ou de reabilitação (excluindo serviços de estomatologia, medicina dentária e odontologia)",1º quintil,30.0,False,3,0.2,False
+06.2.3,"Serviços e tratamentos de medicina curativa ou de reabilitação (excluindo serviços de estomatologia, medicina dentária e odontologia)",2º quintil,39.0,False,3,0.2,False
+06.2.3,"Serviços e tratamentos de medicina curativa ou de reabilitação (excluindo serviços de estomatologia, medicina dentária e odontologia)",3º quintil,56.0,False,3,0.3,False
+06.2.3,"Serviços e tratamentos de medicina curativa ou de reabilitação (excluindo serviços de estomatologia, medicina dentária e odontologia)",4º quintil,66.0,False,3,0.3,False
+06.2.3,"Serviços e tratamentos de medicina curativa ou de reabilitação (excluindo serviços de estomatologia, medicina dentária e odontologia)",5º quintil,104.0,False,3,0.3,False
+06.2.3,"Serviços e tratamentos de medicina curativa ou de reabilitação (excluindo serviços de estomatologia, medicina dentária e odontologia)",Total,60.0,False,3,0.3,False
+06.3,Serviços de saúde em estabelecimentos hospitalares com internamento,1º quintil,13.0,True,2,0.1,True
+06.3,Serviços de saúde em estabelecimentos hospitalares com internamento,2º quintil,,False,2,,False
+06.3,Serviços de saúde em estabelecimentos hospitalares com internamento,3º quintil,,False,2,,False
+06.3,Serviços de saúde em estabelecimentos hospitalares com internamento,4º quintil,,False,2,,False
+06.3,Serviços de saúde em estabelecimentos hospitalares com internamento,5º quintil,57.0,True,2,0.2,True
+06.3,Serviços de saúde em estabelecimentos hospitalares com internamento,Total,38.0,False,2,0.2,False
+06.3.1,Serviços curativos e de reabilitação em estabelecimentos hospitalares com internamento,1º quintil,,False,3,,False
+06.3.1,Serviços curativos e de reabilitação em estabelecimentos hospitalares com internamento,2º quintil,,False,3,,False
+06.3.1,Serviços curativos e de reabilitação em estabelecimentos hospitalares com internamento,3º quintil,,False,3,,False
+06.3.1,Serviços curativos e de reabilitação em estabelecimentos hospitalares com internamento,4º quintil,,False,3,,False
+06.3.1,Serviços curativos e de reabilitação em estabelecimentos hospitalares com internamento,5º quintil,53.0,True,3,0.2,True
+06.3.1,Serviços curativos e de reabilitação em estabelecimentos hospitalares com internamento,Total,34.0,False,3,0.1,False
+06.3.2,Serviços de cuidados continuados com internamento,1º quintil,,False,3,,False
+06.3.2,Serviços de cuidados continuados com internamento,2º quintil,,False,3,,False
+06.3.2,Serviços de cuidados continuados com internamento,3º quintil,,False,3,,False
+06.3.2,Serviços de cuidados continuados com internamento,4º quintil,,False,3,,False
+06.3.2,Serviços de cuidados continuados com internamento,5º quintil,,False,3,,False
+06.3.2,Serviços de cuidados continuados com internamento,Total,,False,3,,False
+06.4,Outros serviços de saúde,1º quintil,17.0,True,2,0.1,True
+06.4,Outros serviços de saúde,2º quintil,20.0,False,2,0.1,False
+06.4,Outros serviços de saúde,3º quintil,20.0,False,2,0.1,False
+06.4,Outros serviços de saúde,4º quintil,20.0,False,2,0.1,False
+06.4,Outros serviços de saúde,5º quintil,32.0,False,2,0.1,False
+06.4,Outros serviços de saúde,Total,22.0,False,2,0.1,False
+06.4.1,Serviços de imagiologia médica e exames laboratoriais,1º quintil,12.0,False,3,0.1,False
+06.4.1,Serviços de imagiologia médica e exames laboratoriais,2º quintil,19.0,False,3,0.1,False
+06.4.1,Serviços de imagiologia médica e exames laboratoriais,3º quintil,16.0,False,3,0.1,False
+06.4.1,Serviços de imagiologia médica e exames laboratoriais,4º quintil,18.0,False,3,0.1,False
+06.4.1,Serviços de imagiologia médica e exames laboratoriais,5º quintil,31.0,False,3,0.1,False
+06.4.1,Serviços de imagiologia médica e exames laboratoriais,Total,20.0,False,3,0.1,False
+06.4.2,Serviços de transporte e socorro urgente de doentes,1º quintil,,False,3,,False
+06.4.2,Serviços de transporte e socorro urgente de doentes,2º quintil,,False,3,,False
+06.4.2,Serviços de transporte e socorro urgente de doentes,3º quintil,,False,3,,False
+06.4.2,Serviços de transporte e socorro urgente de doentes,4º quintil,,False,3,,False
+06.4.2,Serviços de transporte e socorro urgente de doentes,5º quintil,,False,3,,False
+06.4.2,Serviços de transporte e socorro urgente de doentes,Total,,False,3,,False
+07,Transportes,1º quintil,1841.0,False,1,11.3,False
+07,Transportes,2º quintil,2008.0,False,1,11.0,False
+07,Transportes,3º quintil,3101.0,False,1,14.0,False
+07,Transportes,4º quintil,3331.0,False,1,12.7,False
+07,Transportes,5º quintil,4032.0,False,1,11.5,False
+07,Transportes,Total,2888.0,False,1,12.1,False
+07.1,Aquisição de veículos,1º quintil,545.0,True,2,3.3,True
+07.1,Aquisição de veículos,2º quintil,431.0,False,2,2.4,False
+07.1,Aquisição de veículos,3º quintil,1037.0,False,2,4.7,False
+07.1,Aquisição de veículos,4º quintil,943.0,False,2,3.6,False
+07.1,Aquisição de veículos,5º quintil,1264.0,False,2,3.6,False
+07.1,Aquisição de veículos,Total,852.0,False,2,3.6,False
+07.1.1,Veículos automóveis,1º quintil,497.0,True,3,3.1,True
+07.1.1,Veículos automóveis,2º quintil,396.0,True,3,2.2,True
+07.1.1,Veículos automóveis,3º quintil,985.0,False,3,4.4,False
+07.1.1,Veículos automóveis,4º quintil,839.0,False,3,3.2,False
+07.1.1,Veículos automóveis,5º quintil,1184.0,False,3,3.4,False
+07.1.1,Veículos automóveis,Total,788.0,False,3,3.3,False
+07.1.2,Motociclos,1º quintil,,False,3,,False
+07.1.2,Motociclos,2º quintil,,False,3,,False
+07.1.2,Motociclos,3º quintil,,False,3,,False
+07.1.2,Motociclos,4º quintil,,False,3,,False
+07.1.2,Motociclos,5º quintil,,False,3,,False
+07.1.2,Motociclos,Total,50.0,True,3,0.2,True
+07.1.3,Bicicletas,1º quintil,,False,3,,False
+07.1.3,Bicicletas,2º quintil,,False,3,,False
+07.1.3,Bicicletas,3º quintil,13.0,True,3,0.1,True
+07.1.3,Bicicletas,4º quintil,,False,3,,False
+07.1.3,Bicicletas,5º quintil,21.0,True,3,0.1,True
+07.1.3,Bicicletas,Total,13.0,False,3,0.1,False
+07.1.4,Veículos de tração animal,1º quintil,,False,3,,False
+07.1.4,Veículos de tração animal,2º quintil,,False,3,,False
+07.1.4,Veículos de tração animal,3º quintil,,False,3,,False
+07.1.4,Veículos de tração animal,4º quintil,,False,3,,False
+07.1.4,Veículos de tração animal,5º quintil,,False,3,,False
+07.1.4,Veículos de tração animal,Total,,False,3,,False
+07.2,Utilização de equipamento para transporte pessoal,1º quintil,1085.0,False,2,6.7,False
+07.2,Utilização de equipamento para transporte pessoal,2º quintil,1379.0,False,2,7.5,False
+07.2,Utilização de equipamento para transporte pessoal,3º quintil,1849.0,False,2,8.3,False
+07.2,Utilização de equipamento para transporte pessoal,4º quintil,2161.0,False,2,8.3,False
+07.2,Utilização de equipamento para transporte pessoal,5º quintil,2374.0,False,2,6.8,False
+07.2,Utilização de equipamento para transporte pessoal,Total,1782.0,False,2,7.5,False
+07.2.1,Peças e acessórios para equipamento para transporte pessoal,1º quintil,54.0,False,3,0.3,False
+07.2.1,Peças e acessórios para equipamento para transporte pessoal,2º quintil,66.0,False,3,0.4,False
+07.2.1,Peças e acessórios para equipamento para transporte pessoal,3º quintil,83.0,False,3,0.4,False
+07.2.1,Peças e acessórios para equipamento para transporte pessoal,4º quintil,96.0,False,3,0.4,False
+07.2.1,Peças e acessórios para equipamento para transporte pessoal,5º quintil,110.0,False,3,0.3,False
+07.2.1,Peças e acessórios para equipamento para transporte pessoal,Total,82.0,False,3,0.3,False
+07.2.2,Combustível e lubrificantes para equipamento para transporte pessoal,1º quintil,793.0,False,3,4.9,False
+07.2.2,Combustível e lubrificantes para equipamento para transporte pessoal,2º quintil,973.0,False,3,5.3,False
+07.2.2,Combustível e lubrificantes para equipamento para transporte pessoal,3º quintil,1328.0,False,3,6.0,False
+07.2.2,Combustível e lubrificantes para equipamento para transporte pessoal,4º quintil,1518.0,False,3,5.8,False
+07.2.2,Combustível e lubrificantes para equipamento para transporte pessoal,5º quintil,1550.0,False,3,4.4,False
+07.2.2,Combustível e lubrificantes para equipamento para transporte pessoal,Total,1238.0,False,3,5.2,False
+07.2.3,Manutenção e reparação de equipamento para transporte pessoal,1º quintil,92.0,False,3,0.6,False
+07.2.3,Manutenção e reparação de equipamento para transporte pessoal,2º quintil,134.0,False,3,0.7,False
+07.2.3,Manutenção e reparação de equipamento para transporte pessoal,3º quintil,185.0,False,3,0.8,False
+07.2.3,Manutenção e reparação de equipamento para transporte pessoal,4º quintil,235.0,False,3,0.9,False
+07.2.3,Manutenção e reparação de equipamento para transporte pessoal,5º quintil,283.0,False,3,0.8,False
+07.2.3,Manutenção e reparação de equipamento para transporte pessoal,Total,188.0,False,3,0.8,False
+07.2.4,Outros serviços relacionados com o equipamento para transporte pessoal,1º quintil,147.0,False,3,0.9,False
+07.2.4,Outros serviços relacionados com o equipamento para transporte pessoal,2º quintil,205.0,False,3,1.1,False
+07.2.4,Outros serviços relacionados com o equipamento para transporte pessoal,3º quintil,253.0,False,3,1.1,False
+07.2.4,Outros serviços relacionados com o equipamento para transporte pessoal,4º quintil,311.0,False,3,1.2,False
+07.2.4,Outros serviços relacionados com o equipamento para transporte pessoal,5º quintil,432.0,False,3,1.2,False
+07.2.4,Outros serviços relacionados com o equipamento para transporte pessoal,Total,274.0,False,3,1.1,False
+07.3,Serviços de transporte de passageiros,1º quintil,206.0,False,2,1.3,False
+07.3,Serviços de transporte de passageiros,2º quintil,194.0,False,2,1.1,False
+07.3,Serviços de transporte de passageiros,3º quintil,209.0,False,2,0.9,False
+07.3,Serviços de transporte de passageiros,4º quintil,222.0,False,2,0.8,False
+07.3,Serviços de transporte de passageiros,5º quintil,379.0,False,2,1.1,False
+07.3,Serviços de transporte de passageiros,Total,246.0,False,2,1.0,False
+07.3.1,Transportes ferroviários de passageiros,1º quintil,14.0,True,3,0.1,True
+07.3.1,Transportes ferroviários de passageiros,2º quintil,9.0,True,3,0.0,True
+07.3.1,Transportes ferroviários de passageiros,3º quintil,14.0,True,3,0.1,True
+07.3.1,Transportes ferroviários de passageiros,4º quintil,14.0,True,3,0.1,True
+07.3.1,Transportes ferroviários de passageiros,5º quintil,14.0,False,3,0.0,False
+07.3.1,Transportes ferroviários de passageiros,Total,13.0,False,3,0.1,False
+07.3.2,Transportes rodoviários de passageiros,1º quintil,53.0,False,3,0.3,False
+07.3.2,Transportes rodoviários de passageiros,2º quintil,67.0,False,3,0.4,False
+07.3.2,Transportes rodoviários de passageiros,3º quintil,43.0,False,3,0.2,False
+07.3.2,Transportes rodoviários de passageiros,4º quintil,41.0,False,3,0.2,False
+07.3.2,Transportes rodoviários de passageiros,5º quintil,37.0,False,3,0.1,False
+07.3.2,Transportes rodoviários de passageiros,Total,48.0,False,3,0.2,False
+07.3.3,Transporte aéreo de passageiros,1º quintil,43.0,True,3,0.3,True
+07.3.3,Transporte aéreo de passageiros,2º quintil,47.0,True,3,0.3,True
+07.3.3,Transporte aéreo de passageiros,3º quintil,50.0,False,3,0.2,False
+07.3.3,Transporte aéreo de passageiros,4º quintil,80.0,False,3,0.3,False
+07.3.3,Transporte aéreo de passageiros,5º quintil,267.0,False,3,0.8,False
+07.3.3,Transporte aéreo de passageiros,Total,103.0,False,3,0.4,False
+07.3.4,Transporte de passageiros por mar e vias interiores navegáveis,1º quintil,,False,3,,False
+07.3.4,Transporte de passageiros por mar e vias interiores navegáveis,2º quintil,,False,3,,False
+07.3.4,Transporte de passageiros por mar e vias interiores navegáveis,3º quintil,,False,3,,False
+07.3.4,Transporte de passageiros por mar e vias interiores navegáveis,4º quintil,,False,3,,False
+07.3.4,Transporte de passageiros por mar e vias interiores navegáveis,5º quintil,2.0,True,3,0.0,True
+07.3.4,Transporte de passageiros por mar e vias interiores navegáveis,Total,1.0,True,3,0.0,True
+07.3.5,Transportes combinados de passageiros,1º quintil,96.0,False,3,0.6,False
+07.3.5,Transportes combinados de passageiros,2º quintil,71.0,False,3,0.4,False
+07.3.5,Transportes combinados de passageiros,3º quintil,101.0,False,3,0.5,False
+07.3.5,Transportes combinados de passageiros,4º quintil,85.0,False,3,0.3,False
+07.3.5,Transportes combinados de passageiros,5º quintil,59.0,False,3,0.2,False
+07.3.5,Transportes combinados de passageiros,Total,81.0,False,3,0.3,False
+07.3.6,Outros serviços de transportes adquiridos,1º quintil,,False,3,,False
+07.3.6,Outros serviços de transportes adquiridos,2º quintil,,False,3,,False
+07.3.6,Outros serviços de transportes adquiridos,3º quintil,,False,3,,False
+07.3.6,Outros serviços de transportes adquiridos,4º quintil,,False,3,,False
+07.3.6,Outros serviços de transportes adquiridos,5º quintil,,False,3,,False
+07.3.6,Outros serviços de transportes adquiridos,Total,,False,3,,False
+07.4,Serviços de transporte de bens,1º quintil,,False,2,,False
+07.4,Serviços de transporte de bens,2º quintil,4.0,True,2,0.0,True
+07.4,Serviços de transporte de bens,3º quintil,,False,2,,False
+07.4,Serviços de transporte de bens,4º quintil,6.0,True,2,0.0,True
+07.4,Serviços de transporte de bens,5º quintil,15.0,False,2,0.0,False
+07.4,Serviços de transporte de bens,Total,7.0,False,2,0.0,False
+07.4.1,Serviços postais e de correio,1º quintil,,False,3,,False
+07.4.1,Serviços postais e de correio,2º quintil,,False,3,,False
+07.4.1,Serviços postais e de correio,3º quintil,,False,3,,False
+07.4.1,Serviços postais e de correio,4º quintil,1.0,True,3,0.0,True
+07.4.1,Serviços postais e de correio,5º quintil,3.0,True,3,0.0,True
+07.4.1,Serviços postais e de correio,Total,1.0,False,3,0.0,False
+07.4.9,Outros serviços de transporte de bens,1º quintil,,False,3,,False
+07.4.9,Outros serviços de transporte de bens,2º quintil,3.0,True,3,0.0,True
+07.4.9,Outros serviços de transporte de bens,3º quintil,,False,3,,False
+07.4.9,Outros serviços de transporte de bens,4º quintil,5.0,True,3,0.0,True
+07.4.9,Outros serviços de transporte de bens,5º quintil,12.0,False,3,0.0,False
+07.4.9,Outros serviços de transporte de bens,Total,6.0,False,3,0.0,False
+08,Informação e comunicação,1º quintil,671.0,False,1,4.1,False
+08,Informação e comunicação,2º quintil,809.0,False,1,4.4,False
+08,Informação e comunicação,3º quintil,902.0,False,1,4.1,False
+08,Informação e comunicação,4º quintil,997.0,False,1,3.8,False
+08,Informação e comunicação,5º quintil,1136.0,False,1,3.2,False
+08,Informação e comunicação,Total,909.0,False,1,3.8,False
+08.1,Equipamento de informação e comunicação,1º quintil,82.0,False,2,0.5,False
+08.1,Equipamento de informação e comunicação,2º quintil,121.0,False,2,0.7,False
+08.1,Equipamento de informação e comunicação,3º quintil,116.0,False,2,0.5,False
+08.1,Equipamento de informação e comunicação,4º quintil,182.0,False,2,0.7,False
+08.1,Equipamento de informação e comunicação,5º quintil,273.0,False,2,0.8,False
+08.1,Equipamento de informação e comunicação,Total,158.0,False,2,0.7,False
+08.1.1,Equipamento telefónico da rede fixa,1º quintil,,False,3,,False
+08.1.1,Equipamento telefónico da rede fixa,2º quintil,,False,3,,False
+08.1.1,Equipamento telefónico da rede fixa,3º quintil,,False,3,,False
+08.1.1,Equipamento telefónico da rede fixa,4º quintil,,False,3,,False
+08.1.1,Equipamento telefónico da rede fixa,5º quintil,,False,3,,False
+08.1.1,Equipamento telefónico da rede fixa,Total,0.0,True,3,0.0,True
+08.1.2,Equipamento telefónico da rede móvel,1º quintil,39.0,True,3,0.2,True
+08.1.2,Equipamento telefónico da rede móvel,2º quintil,47.0,False,3,0.3,False
+08.1.2,Equipamento telefónico da rede móvel,3º quintil,46.0,False,3,0.2,False
+08.1.2,Equipamento telefónico da rede móvel,4º quintil,78.0,False,3,0.3,False
+08.1.2,Equipamento telefónico da rede móvel,5º quintil,96.0,False,3,0.3,False
+08.1.2,Equipamento telefónico da rede móvel,Total,62.0,False,3,0.3,False
+08.1.3,Equipamento informático,1º quintil,32.0,True,3,0.2,True
+08.1.3,Equipamento informático,2º quintil,49.0,False,3,0.3,False
+08.1.3,Equipamento informático,3º quintil,52.0,False,3,0.2,False
+08.1.3,Equipamento informático,4º quintil,69.0,False,3,0.3,False
+08.1.3,Equipamento informático,5º quintil,130.0,False,3,0.4,False
+08.1.3,Equipamento informático,Total,68.0,False,3,0.3,False
+08.1.4,"Equipamento para receção, registo e reprodução de som e imagem",1º quintil,8.0,False,3,0.0,False
+08.1.4,"Equipamento para receção, registo e reprodução de som e imagem",2º quintil,,False,3,,False
+08.1.4,"Equipamento para receção, registo e reprodução de som e imagem",3º quintil,14.0,True,3,0.1,True
+08.1.4,"Equipamento para receção, registo e reprodução de som e imagem",4º quintil,27.0,False,3,0.1,False
+08.1.4,"Equipamento para receção, registo e reprodução de som e imagem",5º quintil,32.0,False,3,0.1,False
+08.1.4,"Equipamento para receção, registo e reprodução de som e imagem",Total,21.0,False,3,0.1,False
+08.1.5,Suportes de gravação não gravados,1º quintil,,False,3,,False
+08.1.5,Suportes de gravação não gravados,2º quintil,,False,3,,False
+08.1.5,Suportes de gravação não gravados,3º quintil,,False,3,,False
+08.1.5,Suportes de gravação não gravados,4º quintil,,False,3,,False
+08.1.5,Suportes de gravação não gravados,5º quintil,,False,3,,False
+08.1.5,Suportes de gravação não gravados,Total,1.0,True,3,0.0,True
+08.1.9,Outros equipamentos e acessórios de informação e comunicação,1º quintil,,False,3,,False
+08.1.9,Outros equipamentos e acessórios de informação e comunicação,2º quintil,3.0,True,3,0.0,True
+08.1.9,Outros equipamentos e acessórios de informação e comunicação,3º quintil,3.0,True,3,0.0,True
+08.1.9,Outros equipamentos e acessórios de informação e comunicação,4º quintil,8.0,True,3,0.0,True
+08.1.9,Outros equipamentos e acessórios de informação e comunicação,5º quintil,,False,3,,False
+08.1.9,Outros equipamentos e acessórios de informação e comunicação,Total,6.0,False,3,0.0,False
+08.2,Programas informáticos (software) excluindo jogos,1º quintil,,False,2,,False
+08.2,Programas informáticos (software) excluindo jogos,2º quintil,,False,2,,False
+08.2,Programas informáticos (software) excluindo jogos,3º quintil,,False,2,,False
+08.2,Programas informáticos (software) excluindo jogos,4º quintil,1.0,True,2,0.0,True
+08.2,Programas informáticos (software) excluindo jogos,5º quintil,,False,2,,False
+08.2,Programas informáticos (software) excluindo jogos,Total,2.0,True,2,0.0,True
+08.2.0,Programas informáticos (software),1º quintil,,False,3,,False
+08.2.0,Programas informáticos (software),2º quintil,,False,3,,False
+08.2.0,Programas informáticos (software),3º quintil,,False,3,,False
+08.2.0,Programas informáticos (software),4º quintil,1.0,True,3,0.0,True
+08.2.0,Programas informáticos (software),5º quintil,,False,3,,False
+08.2.0,Programas informáticos (software),Total,2.0,True,3,0.0,True
+08.3,Serviços de informação e comunicação,1º quintil,589.0,False,2,3.6,False
+08.3,Serviços de informação e comunicação,2º quintil,687.0,False,2,3.8,False
+08.3,Serviços de informação e comunicação,3º quintil,785.0,False,2,3.5,False
+08.3,Serviços de informação e comunicação,4º quintil,814.0,False,2,3.1,False
+08.3,Serviços de informação e comunicação,5º quintil,859.0,False,2,2.5,False
+08.3,Serviços de informação e comunicação,Total,749.0,False,2,3.1,False
+08.3.1,Serviços de comunicação da rede fixa,1º quintil,10.0,False,3,0.1,False
+08.3.1,Serviços de comunicação da rede fixa,2º quintil,8.0,False,3,0.0,False
+08.3.1,Serviços de comunicação da rede fixa,3º quintil,5.0,False,3,0.0,False
+08.3.1,Serviços de comunicação da rede fixa,4º quintil,3.0,True,3,0.0,True
+08.3.1,Serviços de comunicação da rede fixa,5º quintil,,False,3,,False
+08.3.1,Serviços de comunicação da rede fixa,Total,6.0,False,3,0.0,False
+08.3.2,Serviços de comunicação da rede móvel,1º quintil,93.0,False,3,0.6,False
+08.3.2,Serviços de comunicação da rede móvel,2º quintil,109.0,False,3,0.6,False
+08.3.2,Serviços de comunicação da rede móvel,3º quintil,140.0,False,3,0.6,False
+08.3.2,Serviços de comunicação da rede móvel,4º quintil,123.0,False,3,0.5,False
+08.3.2,Serviços de comunicação da rede móvel,5º quintil,66.0,False,3,0.2,False
+08.3.2,Serviços de comunicação da rede móvel,Total,105.0,False,3,0.4,False
+08.3.3,Serviços de fornecimento de acesso à internet e de armazenamento de dados na net,1º quintil,,False,3,,False
+08.3.3,Serviços de fornecimento de acesso à internet e de armazenamento de dados na net,2º quintil,,False,3,,False
+08.3.3,Serviços de fornecimento de acesso à internet e de armazenamento de dados na net,3º quintil,5.0,True,3,0.0,True
+08.3.3,Serviços de fornecimento de acesso à internet e de armazenamento de dados na net,4º quintil,3.0,True,3,0.0,True
+08.3.3,Serviços de fornecimento de acesso à internet e de armazenamento de dados na net,5º quintil,3.0,True,3,0.0,True
+08.3.3,Serviços de fornecimento de acesso à internet e de armazenamento de dados na net,Total,4.0,False,3,0.0,False
+08.3.4,Serviços de telecomunicações contratados em pacote (bundle),1º quintil,475.0,False,3,2.9,False
+08.3.4,Serviços de telecomunicações contratados em pacote (bundle),2º quintil,557.0,False,3,3.0,False
+08.3.4,Serviços de telecomunicações contratados em pacote (bundle),3º quintil,612.0,False,3,2.8,False
+08.3.4,Serviços de telecomunicações contratados em pacote (bundle),4º quintil,663.0,False,3,2.5,False
+08.3.4,Serviços de telecomunicações contratados em pacote (bundle),5º quintil,751.0,False,3,2.1,False
+08.3.4,Serviços de telecomunicações contratados em pacote (bundle),Total,615.0,False,3,2.6,False
+08.3.5,Reparação e aluguer de equipamento de informação e comunicação,1º quintil,,False,3,,False
+08.3.5,Reparação e aluguer de equipamento de informação e comunicação,2º quintil,,False,3,,False
+08.3.5,Reparação e aluguer de equipamento de informação e comunicação,3º quintil,,False,3,,False
+08.3.5,Reparação e aluguer de equipamento de informação e comunicação,4º quintil,,False,3,,False
+08.3.5,Reparação e aluguer de equipamento de informação e comunicação,5º quintil,2.0,True,3,0.0,True
+08.3.5,Reparação e aluguer de equipamento de informação e comunicação,Total,2.0,False,3,0.0,False
+08.3.9,Outros serviços de informação e comunicação,1º quintil,6.0,True,3,0.0,True
+08.3.9,Outros serviços de informação e comunicação,2º quintil,9.0,False,3,0.0,False
+08.3.9,Outros serviços de informação e comunicação,3º quintil,21.0,False,3,0.1,False
+08.3.9,Outros serviços de informação e comunicação,4º quintil,21.0,False,3,0.1,False
+08.3.9,Outros serviços de informação e comunicação,5º quintil,34.0,False,3,0.1,False
+08.3.9,Outros serviços de informação e comunicação,Total,19.0,False,3,0.1,False
+09,"Lazer, recreação desporto e cultura",1º quintil,335.0,False,1,2.1,False
+09,"Lazer, recreação desporto e cultura",2º quintil,468.0,False,1,2.6,False
+09,"Lazer, recreação desporto e cultura",3º quintil,609.0,False,1,2.7,False
+09,"Lazer, recreação desporto e cultura",4º quintil,887.0,False,1,3.4,False
+09,"Lazer, recreação desporto e cultura",5º quintil,1560.0,False,1,4.5,False
+09,"Lazer, recreação desporto e cultura",Total,795.0,False,1,3.3,False
+09.1,Bens recreativos duradouros,1º quintil,,False,2,,False
+09.1,Bens recreativos duradouros,2º quintil,,False,2,,False
+09.1,Bens recreativos duradouros,3º quintil,,False,2,,False
+09.1,Bens recreativos duradouros,4º quintil,,False,2,,False
+09.1,Bens recreativos duradouros,5º quintil,,False,2,,False
+09.1,Bens recreativos duradouros,Total,,False,2,,False
+09.1.1,Equipamento fotográfico e cinematográfico e instrumentos de ótica,1º quintil,,False,3,,False
+09.1.1,Equipamento fotográfico e cinematográfico e instrumentos de ótica,2º quintil,,False,3,,False
+09.1.1,Equipamento fotográfico e cinematográfico e instrumentos de ótica,3º quintil,,False,3,,False
+09.1.1,Equipamento fotográfico e cinematográfico e instrumentos de ótica,4º quintil,,False,3,,False
+09.1.1,Equipamento fotográfico e cinematográfico e instrumentos de ótica,5º quintil,,False,3,,False
+09.1.1,Equipamento fotográfico e cinematográfico e instrumentos de ótica,Total,4.0,True,3,0.0,True
+09.1.2,Bens duradouros de base para atividades de lazer e recreação,1º quintil,,False,3,,False
+09.1.2,Bens duradouros de base para atividades de lazer e recreação,2º quintil,,False,3,,False
+09.1.2,Bens duradouros de base para atividades de lazer e recreação,3º quintil,,False,3,,False
+09.1.2,Bens duradouros de base para atividades de lazer e recreação,4º quintil,,False,3,,False
+09.1.2,Bens duradouros de base para atividades de lazer e recreação,5º quintil,,False,3,,False
+09.1.2,Bens duradouros de base para atividades de lazer e recreação,Total,,False,3,,False
+09.2,Outros bens recreativos,1º quintil,21.0,False,2,0.1,False
+09.2,Outros bens recreativos,2º quintil,31.0,False,2,0.2,False
+09.2,Outros bens recreativos,3º quintil,45.0,False,2,0.2,False
+09.2,Outros bens recreativos,4º quintil,63.0,True,2,0.2,True
+09.2,Outros bens recreativos,5º quintil,69.0,False,2,0.2,False
+09.2,Outros bens recreativos,Total,46.0,False,2,0.2,False
+09.2.1,"Jogos, brinquedos e passatempos",1º quintil,18.0,False,3,0.1,False
+09.2.1,"Jogos, brinquedos e passatempos",2º quintil,25.0,False,3,0.1,False
+09.2.1,"Jogos, brinquedos e passatempos",3º quintil,31.0,False,3,0.1,False
+09.2.1,"Jogos, brinquedos e passatempos",4º quintil,48.0,True,3,0.2,True
+09.2.1,"Jogos, brinquedos e passatempos",5º quintil,51.0,False,3,0.1,False
+09.2.1,"Jogos, brinquedos e passatempos",Total,35.0,False,3,0.1,False
+09.2.2,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",1º quintil,3.0,True,3,0.0,True
+09.2.2,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",2º quintil,6.0,True,3,0.0,True
+09.2.2,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",3º quintil,13.0,True,3,0.1,True
+09.2.2,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",4º quintil,15.0,True,3,0.1,True
+09.2.2,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",5º quintil,18.0,False,3,0.1,False
+09.2.2,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",Total,11.0,False,3,0.0,False
+09.3,Produtos de jardinagem e animais de estimação,1º quintil,94.0,False,2,0.6,False
+09.3,Produtos de jardinagem e animais de estimação,2º quintil,125.0,False,2,0.7,False
+09.3,Produtos de jardinagem e animais de estimação,3º quintil,142.0,False,2,0.6,False
+09.3,Produtos de jardinagem e animais de estimação,4º quintil,150.0,False,2,0.6,False
+09.3,Produtos de jardinagem e animais de estimação,5º quintil,186.0,False,2,0.5,False
+09.3,Produtos de jardinagem e animais de estimação,Total,141.0,False,2,0.6,False
+09.3.1,"Produtos para jardinagem, plantas e flores",1º quintil,7.0,False,3,0.0,False
+09.3.1,"Produtos para jardinagem, plantas e flores",2º quintil,10.0,False,3,0.1,False
+09.3.1,"Produtos para jardinagem, plantas e flores",3º quintil,15.0,True,3,0.1,True
+09.3.1,"Produtos para jardinagem, plantas e flores",4º quintil,10.0,False,3,0.0,False
+09.3.1,"Produtos para jardinagem, plantas e flores",5º quintil,18.0,False,3,0.1,False
+09.3.1,"Produtos para jardinagem, plantas e flores",Total,12.0,False,3,0.0,False
+09.3.2,Animais de estimação e produtos relacionados,1º quintil,87.0,False,3,0.5,False
+09.3.2,Animais de estimação e produtos relacionados,2º quintil,116.0,False,3,0.6,False
+09.3.2,Animais de estimação e produtos relacionados,3º quintil,127.0,False,3,0.6,False
+09.3.2,Animais de estimação e produtos relacionados,4º quintil,140.0,False,3,0.5,False
+09.3.2,Animais de estimação e produtos relacionados,5º quintil,168.0,False,3,0.5,False
+09.3.2,Animais de estimação e produtos relacionados,Total,129.0,False,3,0.5,False
+09.4,Serviços recreativos,1º quintil,115.0,False,2,0.7,False
+09.4,Serviços recreativos,2º quintil,172.0,False,2,0.9,False
+09.4,Serviços recreativos,3º quintil,227.0,False,2,1.0,False
+09.4,Serviços recreativos,4º quintil,352.0,False,2,1.3,False
+09.4,Serviços recreativos,5º quintil,498.0,False,2,1.4,False
+09.4,Serviços recreativos,Total,279.0,False,2,1.2,False
+09.4.1,Aluguer e reparação de equipamento fotográfico e cinematográfico e instrumentos de ótica,1º quintil,,False,3,,False
+09.4.1,Aluguer e reparação de equipamento fotográfico e cinematográfico e instrumentos de ótica,2º quintil,,False,3,,False
+09.4.1,Aluguer e reparação de equipamento fotográfico e cinematográfico e instrumentos de ótica,3º quintil,,False,3,,False
+09.4.1,Aluguer e reparação de equipamento fotográfico e cinematográfico e instrumentos de ótica,4º quintil,,False,3,,False
+09.4.1,Aluguer e reparação de equipamento fotográfico e cinematográfico e instrumentos de ótica,5º quintil,,False,3,,False
+09.4.1,Aluguer e reparação de equipamento fotográfico e cinematográfico e instrumentos de ótica,Total,,False,3,,False
+09.4.2,"Aluguer, manutenção e reparação de bens duradouros de base para lazer e recreação",1º quintil,,False,3,,False
+09.4.2,"Aluguer, manutenção e reparação de bens duradouros de base para lazer e recreação",2º quintil,,False,3,,False
+09.4.2,"Aluguer, manutenção e reparação de bens duradouros de base para lazer e recreação",3º quintil,,False,3,,False
+09.4.2,"Aluguer, manutenção e reparação de bens duradouros de base para lazer e recreação",4º quintil,,False,3,,False
+09.4.2,"Aluguer, manutenção e reparação de bens duradouros de base para lazer e recreação",5º quintil,,False,3,,False
+09.4.2,"Aluguer, manutenção e reparação de bens duradouros de base para lazer e recreação",Total,,False,3,,False
+09.4.3,"Aluguer e reparação de jogos, brinquedos e passatempos",1º quintil,,False,3,,False
+09.4.3,"Aluguer e reparação de jogos, brinquedos e passatempos",2º quintil,,False,3,,False
+09.4.3,"Aluguer e reparação de jogos, brinquedos e passatempos",3º quintil,,False,3,,False
+09.4.3,"Aluguer e reparação de jogos, brinquedos e passatempos",4º quintil,,False,3,,False
+09.4.3,"Aluguer e reparação de jogos, brinquedos e passatempos",5º quintil,1.0,True,3,0.0,True
+09.4.3,"Aluguer e reparação de jogos, brinquedos e passatempos",Total,,False,3,,False
+09.4.4,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",1º quintil,,False,3,,False
+09.4.4,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",2º quintil,,False,3,,False
+09.4.4,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",3º quintil,,False,3,,False
+09.4.4,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",4º quintil,,False,3,,False
+09.4.4,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",5º quintil,,False,3,,False
+09.4.4,"Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",Total,,False,3,,False
+09.4.5,Serviços de veterinária e outros serviços para animais de companhia,1º quintil,15.0,False,3,0.1,False
+09.4.5,Serviços de veterinária e outros serviços para animais de companhia,2º quintil,24.0,False,3,0.1,False
+09.4.5,Serviços de veterinária e outros serviços para animais de companhia,3º quintil,32.0,False,3,0.1,False
+09.4.5,Serviços de veterinária e outros serviços para animais de companhia,4º quintil,45.0,False,3,0.2,False
+09.4.5,Serviços de veterinária e outros serviços para animais de companhia,5º quintil,58.0,False,3,0.2,False
+09.4.5,Serviços de veterinária e outros serviços para animais de companhia,Total,35.0,False,3,0.1,False
+09.4.6,Serviços recreativos e desportivos,1º quintil,65.0,False,3,0.4,False
+09.4.6,Serviços recreativos e desportivos,2º quintil,84.0,False,3,0.5,False
+09.4.6,Serviços recreativos e desportivos,3º quintil,129.0,False,3,0.6,False
+09.4.6,Serviços recreativos e desportivos,4º quintil,213.0,False,3,0.8,False
+09.4.6,Serviços recreativos e desportivos,5º quintil,329.0,False,3,0.9,False
+09.4.6,Serviços recreativos e desportivos,Total,169.0,False,3,0.7,False
+09.4.7,Jogos de azar,1º quintil,35.0,False,3,0.2,False
+09.4.7,Jogos de azar,2º quintil,64.0,False,3,0.3,False
+09.4.7,Jogos de azar,3º quintil,64.0,False,3,0.3,False
+09.4.7,Jogos de azar,4º quintil,88.0,False,3,0.3,False
+09.4.7,Jogos de azar,5º quintil,105.0,False,3,0.3,False
+09.4.7,Jogos de azar,Total,72.0,False,3,0.3,False
+09.5,Bens culturais,1º quintil,,False,2,,False
+09.5,Bens culturais,2º quintil,,False,2,,False
+09.5,Bens culturais,3º quintil,,False,2,,False
+09.5,Bens culturais,4º quintil,2.0,True,2,0.0,True
+09.5,Bens culturais,5º quintil,8.0,False,2,0.0,False
+09.5,Bens culturais,Total,,False,2,,False
+09.5.1,Instrumentos musicais,1º quintil,,False,3,,False
+09.5.1,Instrumentos musicais,2º quintil,,False,3,,False
+09.5.1,Instrumentos musicais,3º quintil,,False,3,,False
+09.5.1,Instrumentos musicais,4º quintil,,False,3,,False
+09.5.1,Instrumentos musicais,5º quintil,5.0,True,3,0.0,True
+09.5.1,Instrumentos musicais,Total,,False,3,,False
+09.5.2,Meios ou suportes audiovisuais,1º quintil,,False,3,,False
+09.5.2,Meios ou suportes audiovisuais,2º quintil,,False,3,,False
+09.5.2,Meios ou suportes audiovisuais,3º quintil,,False,3,,False
+09.5.2,Meios ou suportes audiovisuais,4º quintil,,False,3,,False
+09.5.2,Meios ou suportes audiovisuais,5º quintil,,False,3,,False
+09.5.2,Meios ou suportes audiovisuais,Total,1.0,True,3,0.0,True
+09.6,Serviços culturais,1º quintil,11.0,False,2,0.1,False
+09.6,Serviços culturais,2º quintil,10.0,False,2,0.1,False
+09.6,Serviços culturais,3º quintil,27.0,False,2,0.1,False
+09.6,Serviços culturais,4º quintil,27.0,False,2,0.1,False
+09.6,Serviços culturais,5º quintil,55.0,False,2,0.2,False
+09.6,Serviços culturais,Total,27.0,False,2,0.1,False
+09.6.1,"Cinemas, teatros e concertos",1º quintil,7.0,False,3,0.0,False
+09.6.1,"Cinemas, teatros e concertos",2º quintil,7.0,False,3,0.0,False
+09.6.1,"Cinemas, teatros e concertos",3º quintil,18.0,False,3,0.1,False
+09.6.1,"Cinemas, teatros e concertos",4º quintil,19.0,False,3,0.1,False
+09.6.1,"Cinemas, teatros e concertos",5º quintil,40.0,False,3,0.1,False
+09.6.1,"Cinemas, teatros e concertos",Total,19.0,False,3,0.1,False
+09.6.2,"Museus, bibliotecas e locais de interesse cultural",1º quintil,,False,3,,False
+09.6.2,"Museus, bibliotecas e locais de interesse cultural",2º quintil,1.0,True,3,0.0,True
+09.6.2,"Museus, bibliotecas e locais de interesse cultural",3º quintil,2.0,True,3,0.0,True
+09.6.2,"Museus, bibliotecas e locais de interesse cultural",4º quintil,,False,3,,False
+09.6.2,"Museus, bibliotecas e locais de interesse cultural",5º quintil,8.0,False,3,0.0,False
+09.6.2,"Museus, bibliotecas e locais de interesse cultural",Total,4.0,False,3,0.0,False
+09.6.3,Serviços fotográficos,1º quintil,,False,3,,False
+09.6.3,Serviços fotográficos,2º quintil,,False,3,,False
+09.6.3,Serviços fotográficos,3º quintil,,False,3,,False
+09.6.3,Serviços fotográficos,4º quintil,2.0,True,3,0.0,True
+09.6.3,Serviços fotográficos,5º quintil,4.0,True,3,0.0,True
+09.6.3,Serviços fotográficos,Total,3.0,False,3,0.0,False
+09.6.9,Outros serviços culturais,1º quintil,,False,3,,False
+09.6.9,Outros serviços culturais,2º quintil,,False,3,,False
+09.6.9,Outros serviços culturais,3º quintil,,False,3,,False
+09.6.9,Outros serviços culturais,4º quintil,,False,3,,False
+09.6.9,Outros serviços culturais,5º quintil,,False,3,,False
+09.6.9,Outros serviços culturais,Total,,False,3,,False
+09.7,"Jornais, livros e artigos de papelaria",1º quintil,58.0,False,2,0.4,False
+09.7,"Jornais, livros e artigos de papelaria",2º quintil,72.0,False,2,0.4,False
+09.7,"Jornais, livros e artigos de papelaria",3º quintil,68.0,False,2,0.3,False
+09.7,"Jornais, livros e artigos de papelaria",4º quintil,94.0,False,2,0.4,False
+09.7,"Jornais, livros e artigos de papelaria",5º quintil,143.0,False,2,0.4,False
+09.7,"Jornais, livros e artigos de papelaria",Total,89.0,False,2,0.4,False
+09.7.1,Livros,1º quintil,30.0,False,3,0.2,False
+09.7.1,Livros,2º quintil,37.0,False,3,0.2,False
+09.7.1,Livros,3º quintil,33.0,False,3,0.1,False
+09.7.1,Livros,4º quintil,45.0,False,3,0.2,False
+09.7.1,Livros,5º quintil,70.0,False,3,0.2,False
+09.7.1,Livros,Total,44.0,False,3,0.2,False
+09.7.2,Jornais e outras publicações periódicas,1º quintil,5.0,False,3,0.0,False
+09.7.2,Jornais e outras publicações periódicas,2º quintil,10.0,True,3,0.1,True
+09.7.2,Jornais e outras publicações periódicas,3º quintil,12.0,True,3,0.1,True
+09.7.2,Jornais e outras publicações periódicas,4º quintil,20.0,False,3,0.1,False
+09.7.2,Jornais e outras publicações periódicas,5º quintil,47.0,False,3,0.1,False
+09.7.2,Jornais e outras publicações periódicas,Total,20.0,False,3,0.1,False
+09.7.3,Material impresso diverso,1º quintil,,False,3,,False
+09.7.3,Material impresso diverso,2º quintil,,False,3,,False
+09.7.3,Material impresso diverso,3º quintil,,False,3,,False
+09.7.3,Material impresso diverso,4º quintil,,False,3,,False
+09.7.3,Material impresso diverso,5º quintil,,False,3,,False
+09.7.3,Material impresso diverso,Total,1.0,True,3,0.0,True
+09.7.4,Artigos de papelaria e de desenho,1º quintil,22.0,False,3,0.1,False
+09.7.4,Artigos de papelaria e de desenho,2º quintil,24.0,False,3,0.1,False
+09.7.4,Artigos de papelaria e de desenho,3º quintil,22.0,False,3,0.1,False
+09.7.4,Artigos de papelaria e de desenho,4º quintil,29.0,False,3,0.1,False
+09.7.4,Artigos de papelaria e de desenho,5º quintil,25.0,False,3,0.1,False
+09.7.4,Artigos de papelaria e de desenho,Total,24.0,False,3,0.1,False
+09.8,Férias organizadas,1º quintil,30.0,True,2,0.2,True
+09.8,Férias organizadas,2º quintil,50.0,False,2,0.3,False
+09.8,Férias organizadas,3º quintil,77.0,False,2,0.3,False
+09.8,Férias organizadas,4º quintil,167.0,False,2,0.6,False
+09.8,Férias organizadas,5º quintil,429.0,False,2,1.2,False
+09.8,Férias organizadas,Total,159.0,False,2,0.7,False
+09.8.0,Férias organizadas,1º quintil,30.0,True,3,0.2,True
+09.8.0,Férias organizadas,2º quintil,50.0,False,3,0.3,False
+09.8.0,Férias organizadas,3º quintil,77.0,False,3,0.3,False
+09.8.0,Férias organizadas,4º quintil,167.0,False,3,0.6,False
+09.8.0,Férias organizadas,5º quintil,429.0,False,3,1.2,False
+09.8.0,Férias organizadas,Total,159.0,False,3,0.7,False
+10,Serviços de educação,1º quintil,149.0,False,1,0.9,False
+10,Serviços de educação,2º quintil,147.0,False,1,0.8,False
+10,Serviços de educação,3º quintil,225.0,False,1,1.0,False
+10,Serviços de educação,4º quintil,400.0,False,1,1.5,False
+10,Serviços de educação,5º quintil,706.0,False,1,2.0,False
+10,Serviços de educação,Total,337.0,False,1,1.4,False
+10.1,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),1º quintil,,False,2,,False
+10.1,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),2º quintil,23.0,True,2,0.1,True
+10.1,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),3º quintil,56.0,True,2,0.3,True
+10.1,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),4º quintil,120.0,True,2,0.5,True
+10.1,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),5º quintil,237.0,True,2,0.7,True
+10.1,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),Total,99.0,False,2,0.4,False
+10.1.0,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),1º quintil,,False,3,,False
+10.1.0,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),2º quintil,23.0,True,3,0.1,True
+10.1.0,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),3º quintil,56.0,True,3,0.3,True
+10.1.0,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),4º quintil,120.0,True,3,0.5,True
+10.1.0,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),5º quintil,237.0,True,3,0.7,True
+10.1.0,Educação pré-escolar e ensino básico (1.° e 2.° ciclo),Total,99.0,False,3,0.4,False
+10.2,Ensino básico (3.° ciclo) e secundário,1º quintil,,False,2,,False
+10.2,Ensino básico (3.° ciclo) e secundário,2º quintil,,False,2,,False
+10.2,Ensino básico (3.° ciclo) e secundário,3º quintil,,False,2,,False
+10.2,Ensino básico (3.° ciclo) e secundário,4º quintil,,False,2,,False
+10.2,Ensino básico (3.° ciclo) e secundário,5º quintil,176.0,False,2,0.5,False
+10.2,Ensino básico (3.° ciclo) e secundário,Total,57.0,False,2,0.2,False
+10.2.0,Ensino básico (3.° ciclo) e secundário,1º quintil,,False,3,,False
+10.2.0,Ensino básico (3.° ciclo) e secundário,2º quintil,,False,3,,False
+10.2.0,Ensino básico (3.° ciclo) e secundário,3º quintil,,False,3,,False
+10.2.0,Ensino básico (3.° ciclo) e secundário,4º quintil,,False,3,,False
+10.2.0,Ensino básico (3.° ciclo) e secundário,5º quintil,176.0,False,3,0.5,False
+10.2.0,Ensino básico (3.° ciclo) e secundário,Total,57.0,False,3,0.2,False
+10.3,Ensino pós-secundário não superior,1º quintil,,False,2,,False
+10.3,Ensino pós-secundário não superior,2º quintil,,False,2,,False
+10.3,Ensino pós-secundário não superior,3º quintil,,False,2,,False
+10.3,Ensino pós-secundário não superior,4º quintil,,False,2,,False
+10.3,Ensino pós-secundário não superior,5º quintil,,False,2,,False
+10.3,Ensino pós-secundário não superior,Total,,False,2,,False
+10.3.0,Ensino pós-secundário não superior,1º quintil,,False,3,,False
+10.3.0,Ensino pós-secundário não superior,2º quintil,,False,3,,False
+10.3.0,Ensino pós-secundário não superior,3º quintil,,False,3,,False
+10.3.0,Ensino pós-secundário não superior,4º quintil,,False,3,,False
+10.3.0,Ensino pós-secundário não superior,5º quintil,,False,3,,False
+10.3.0,Ensino pós-secundário não superior,Total,,False,3,,False
+10.4,Ensino superior,1º quintil,72.0,False,2,0.4,False
+10.4,Ensino superior,2º quintil,80.0,False,2,0.4,False
+10.4,Ensino superior,3º quintil,112.0,True,2,0.5,True
+10.4,Ensino superior,4º quintil,176.0,False,2,0.7,False
+10.4,Ensino superior,5º quintil,164.0,False,2,0.5,False
+10.4,Ensino superior,Total,122.0,False,2,0.5,False
+10.4.0,Ensino superior,1º quintil,72.0,False,3,0.4,False
+10.4.0,Ensino superior,2º quintil,80.0,False,3,0.4,False
+10.4.0,Ensino superior,3º quintil,112.0,True,3,0.5,True
+10.4.0,Ensino superior,4º quintil,176.0,False,3,0.7,False
+10.4.0,Ensino superior,5º quintil,164.0,False,3,0.5,False
+10.4.0,Ensino superior,Total,122.0,False,3,0.5,False
+10.5,Ensino não definido por níveis,1º quintil,28.0,True,2,0.2,True
+10.5,Ensino não definido por níveis,2º quintil,20.0,False,2,0.1,False
+10.5,Ensino não definido por níveis,3º quintil,39.0,True,2,0.2,True
+10.5,Ensino não definido por níveis,4º quintil,61.0,True,2,0.2,True
+10.5,Ensino não definido por níveis,5º quintil,122.0,False,2,0.3,False
+10.5,Ensino não definido por níveis,Total,56.0,False,2,0.2,False
+10.5.0,Ensino não definido por níveis,1º quintil,28.0,True,3,0.2,True
+10.5.0,Ensino não definido por níveis,2º quintil,20.0,False,3,0.1,False
+10.5.0,Ensino não definido por níveis,3º quintil,39.0,True,3,0.2,True
+10.5.0,Ensino não definido por níveis,4º quintil,61.0,True,3,0.2,True
+10.5.0,Ensino não definido por níveis,5º quintil,122.0,False,3,0.3,False
+10.5.0,Ensino não definido por níveis,Total,56.0,False,3,0.2,False
+11,Restaurantes e serviços de alojamento,1º quintil,1243.0,False,1,7.6,False
+11,Restaurantes e serviços de alojamento,2º quintil,1465.0,False,1,8.0,False
+11,Restaurantes e serviços de alojamento,3º quintil,1728.0,False,1,7.8,False
+11,Restaurantes e serviços de alojamento,4º quintil,2363.0,False,1,9.0,False
+11,Restaurantes e serviços de alojamento,5º quintil,3256.0,False,1,9.3,False
+11,Restaurantes e serviços de alojamento,Total,2046.0,False,1,8.6,False
+11.1,Serviços de fornecimento de produtos alimentares e bebidas,1º quintil,1200.0,False,2,7.4,False
+11.1,Serviços de fornecimento de produtos alimentares e bebidas,2º quintil,1374.0,False,2,7.5,False
+11.1,Serviços de fornecimento de produtos alimentares e bebidas,3º quintil,1592.0,False,2,7.2,False
+11.1,Serviços de fornecimento de produtos alimentares e bebidas,4º quintil,2192.0,False,2,8.4,False
+11.1,Serviços de fornecimento de produtos alimentares e bebidas,5º quintil,2828.0,False,2,8.1,False
+11.1,Serviços de fornecimento de produtos alimentares e bebidas,Total,1865.0,False,2,7.8,False
+11.1.1,"Restaurantes, cafés e estabelecimentos similares",1º quintil,1037.0,False,3,6.4,False
+11.1.1,"Restaurantes, cafés e estabelecimentos similares",2º quintil,1211.0,False,3,6.6,False
+11.1.1,"Restaurantes, cafés e estabelecimentos similares",3º quintil,1431.0,False,3,6.5,False
+11.1.1,"Restaurantes, cafés e estabelecimentos similares",4º quintil,1984.0,False,3,7.6,False
+11.1.1,"Restaurantes, cafés e estabelecimentos similares",5º quintil,2687.0,False,3,7.7,False
+11.1.1,"Restaurantes, cafés e estabelecimentos similares",Total,1699.0,False,3,7.1,False
+11.1.2,"Cantinas, cafetarias e refeitórios",1º quintil,163.0,True,3,1.0,True
+11.1.2,"Cantinas, cafetarias e refeitórios",2º quintil,163.0,False,3,0.9,False
+11.1.2,"Cantinas, cafetarias e refeitórios",3º quintil,161.0,False,3,0.7,False
+11.1.2,"Cantinas, cafetarias e refeitórios",4º quintil,208.0,False,3,0.8,False
+11.1.2,"Cantinas, cafetarias e refeitórios",5º quintil,141.0,False,3,0.4,False
+11.1.2,"Cantinas, cafetarias e refeitórios",Total,166.0,False,3,0.7,False
+11.2,Serviços de alojamento,1º quintil,42.0,False,2,0.3,False
+11.2,Serviços de alojamento,2º quintil,91.0,False,2,0.5,False
+11.2,Serviços de alojamento,3º quintil,136.0,False,2,0.6,False
+11.2,Serviços de alojamento,4º quintil,171.0,False,2,0.7,False
+11.2,Serviços de alojamento,5º quintil,428.0,False,2,1.2,False
+11.2,Serviços de alojamento,Total,181.0,False,2,0.8,False
+11.2.0,Serviços de alojamento,1º quintil,42.0,False,3,0.3,False
+11.2.0,Serviços de alojamento,2º quintil,91.0,False,3,0.5,False
+11.2.0,Serviços de alojamento,3º quintil,136.0,False,3,0.6,False
+11.2.0,Serviços de alojamento,4º quintil,171.0,False,3,0.7,False
+11.2.0,Serviços de alojamento,5º quintil,428.0,False,3,1.2,False
+11.2.0,Serviços de alojamento,Total,181.0,False,3,0.8,False
+12,Seguros e serviços financeiros,1º quintil,417.0,False,1,2.6,False
+12,Seguros e serviços financeiros,2º quintil,545.0,False,1,3.0,False
+12,Seguros e serviços financeiros,3º quintil,790.0,False,1,3.6,False
+12,Seguros e serviços financeiros,4º quintil,982.0,False,1,3.7,False
+12,Seguros e serviços financeiros,5º quintil,1381.0,False,1,3.9,False
+12,Seguros e serviços financeiros,Total,838.0,False,1,3.5,False
+12.1,Seguros,1º quintil,372.0,False,2,2.3,False
+12.1,Seguros,2º quintil,492.0,False,2,2.7,False
+12.1,Seguros,3º quintil,725.0,False,2,3.3,False
+12.1,Seguros,4º quintil,913.0,False,2,3.5,False
+12.1,Seguros,5º quintil,1305.0,False,2,3.7,False
+12.1,Seguros,Total,776.0,False,2,3.2,False
+12.1.1,Seguros de vida e acidentes,1º quintil,34.0,False,3,0.2,False
+12.1.1,Seguros de vida e acidentes,2º quintil,46.0,False,3,0.3,False
+12.1.1,Seguros de vida e acidentes,3º quintil,94.0,False,3,0.4,False
+12.1.1,Seguros de vida e acidentes,4º quintil,100.0,False,3,0.4,False
+12.1.1,Seguros de vida e acidentes,5º quintil,154.0,False,3,0.4,False
+12.1.1,Seguros de vida e acidentes,Total,87.0,False,3,0.4,False
+12.1.2,Seguros relacionados com a saúde,1º quintil,62.0,False,3,0.4,False
+12.1.2,Seguros relacionados com a saúde,2º quintil,78.0,False,3,0.4,False
+12.1.2,Seguros relacionados com a saúde,3º quintil,154.0,False,3,0.7,False
+12.1.2,Seguros relacionados com a saúde,4º quintil,247.0,False,3,0.9,False
+12.1.2,Seguros relacionados com a saúde,5º quintil,421.0,False,3,1.2,False
+12.1.2,Seguros relacionados com a saúde,Total,199.0,False,3,0.8,False
+12.1.3,Seguros relacionados com a habitação,1º quintil,74.0,False,3,0.5,False
+12.1.3,Seguros relacionados com a habitação,2º quintil,109.0,False,3,0.6,False
+12.1.3,Seguros relacionados com a habitação,3º quintil,134.0,False,3,0.6,False
+12.1.3,Seguros relacionados com a habitação,4º quintil,160.0,False,3,0.6,False
+12.1.3,Seguros relacionados com a habitação,5º quintil,249.0,False,3,0.7,False
+12.1.3,Seguros relacionados com a habitação,Total,148.0,False,3,0.6,False
+12.1.4,Seguros relacionados com os transportes,1º quintil,197.0,False,3,1.2,False
+12.1.4,Seguros relacionados com os transportes,2º quintil,255.0,False,3,1.4,False
+12.1.4,Seguros relacionados com os transportes,3º quintil,339.0,False,3,1.5,False
+12.1.4,Seguros relacionados com os transportes,4º quintil,401.0,False,3,1.5,False
+12.1.4,Seguros relacionados com os transportes,5º quintil,459.0,False,3,1.3,False
+12.1.4,Seguros relacionados com os transportes,Total,333.0,False,3,1.4,False
+12.1.9,Outros seguros,1º quintil,,False,3,,False
+12.1.9,Outros seguros,2º quintil,3.0,True,3,0.0,True
+12.1.9,Outros seguros,3º quintil,4.0,True,3,0.0,True
+12.1.9,Outros seguros,4º quintil,5.0,True,3,0.0,True
+12.1.9,Outros seguros,5º quintil,22.0,False,3,0.1,False
+12.1.9,Outros seguros,Total,8.0,False,3,0.0,False
+12.2,Serviços financeiros,1º quintil,45.0,False,2,0.3,False
+12.2,Serviços financeiros,2º quintil,53.0,False,2,0.3,False
+12.2,Serviços financeiros,3º quintil,65.0,False,2,0.3,False
+12.2,Serviços financeiros,4º quintil,69.0,False,2,0.3,False
+12.2,Serviços financeiros,5º quintil,76.0,False,2,0.2,False
+12.2,Serviços financeiros,Total,62.0,False,2,0.3,False
+12.2.1,Serviços de intermediação financeira indiretamente medidos,1º quintil,,False,3,,False
+12.2.1,Serviços de intermediação financeira indiretamente medidos,2º quintil,,False,3,,False
+12.2.1,Serviços de intermediação financeira indiretamente medidos,3º quintil,,False,3,,False
+12.2.1,Serviços de intermediação financeira indiretamente medidos,4º quintil,,False,3,,False
+12.2.1,Serviços de intermediação financeira indiretamente medidos,5º quintil,,False,3,,False
+12.2.1,Serviços de intermediação financeira indiretamente medidos,Total,,False,3,,False
+12.2.2,Custos explícitos cobrados por depósitos,1º quintil,45.0,False,3,0.3,False
+12.2.2,Custos explícitos cobrados por depósitos,2º quintil,53.0,False,3,0.3,False
+12.2.2,Custos explícitos cobrados por depósitos,3º quintil,64.0,False,3,0.3,False
+12.2.2,Custos explícitos cobrados por depósitos,4º quintil,67.0,False,3,0.3,False
+12.2.2,Custos explícitos cobrados por depósitos,5º quintil,74.0,False,3,0.2,False
+12.2.2,Custos explícitos cobrados por depósitos,Total,61.0,False,3,0.3,False
+12.2.9,Outros serviços financeiros n.e.,1º quintil,,False,3,,False
+12.2.9,Outros serviços financeiros n.e.,2º quintil,,False,3,,False
+12.2.9,Outros serviços financeiros n.e.,3º quintil,,False,3,,False
+12.2.9,Outros serviços financeiros n.e.,4º quintil,,False,3,,False
+12.2.9,Outros serviços financeiros n.e.,5º quintil,,False,3,,False
+12.2.9,Outros serviços financeiros n.e.,Total,1.0,True,3,0.0,True
+13,"Cuidados pessoais, proteção social e bens diversos",1º quintil,586.0,False,1,3.6,False
+13,"Cuidados pessoais, proteção social e bens diversos",2º quintil,660.0,False,1,3.6,False
+13,"Cuidados pessoais, proteção social e bens diversos",3º quintil,821.0,False,1,3.7,False
+13,"Cuidados pessoais, proteção social e bens diversos",4º quintil,1055.0,False,1,4.0,False
+13,"Cuidados pessoais, proteção social e bens diversos",5º quintil,1101.0,False,1,3.1,False
+13,"Cuidados pessoais, proteção social e bens diversos",Total,850.0,False,1,3.6,False
+13.1,Cuidados pessoais,1º quintil,308.0,False,2,1.9,False
+13.1,Cuidados pessoais,2º quintil,415.0,False,2,2.3,False
+13.1,Cuidados pessoais,3º quintil,485.0,False,2,2.2,False
+13.1,Cuidados pessoais,4º quintil,595.0,False,2,2.3,False
+13.1,Cuidados pessoais,5º quintil,663.0,False,2,1.9,False
+13.1,Cuidados pessoais,Total,497.0,False,2,2.1,False
+13.1.1,Aparelhos elétricos para cuidados pessoais,1º quintil,1.0,True,3,0.0,True
+13.1.1,Aparelhos elétricos para cuidados pessoais,2º quintil,,False,3,,False
+13.1.1,Aparelhos elétricos para cuidados pessoais,3º quintil,,False,3,,False
+13.1.1,Aparelhos elétricos para cuidados pessoais,4º quintil,3.0,False,3,0.0,False
+13.1.1,Aparelhos elétricos para cuidados pessoais,5º quintil,6.0,False,3,0.0,False
+13.1.1,Aparelhos elétricos para cuidados pessoais,Total,4.0,False,3,0.0,False
+13.1.2,"Outros aparelhos, artigos e produtos para cuidados pessoais",1º quintil,202.0,False,3,1.2,False
+13.1.2,"Outros aparelhos, artigos e produtos para cuidados pessoais",2º quintil,263.0,False,3,1.4,False
+13.1.2,"Outros aparelhos, artigos e produtos para cuidados pessoais",3º quintil,292.0,False,3,1.3,False
+13.1.2,"Outros aparelhos, artigos e produtos para cuidados pessoais",4º quintil,322.0,False,3,1.2,False
+13.1.2,"Outros aparelhos, artigos e produtos para cuidados pessoais",5º quintil,323.0,False,3,0.9,False
+13.1.2,"Outros aparelhos, artigos e produtos para cuidados pessoais",Total,281.0,False,3,1.2,False
+13.1.3,Salões de cabeleireiro e estabelecimentos de cuidados pessoais,1º quintil,105.0,False,3,0.6,False
+13.1.3,Salões de cabeleireiro e estabelecimentos de cuidados pessoais,2º quintil,148.0,False,3,0.8,False
+13.1.3,Salões de cabeleireiro e estabelecimentos de cuidados pessoais,3º quintil,190.0,False,3,0.9,False
+13.1.3,Salões de cabeleireiro e estabelecimentos de cuidados pessoais,4º quintil,269.0,False,3,1.0,False
+13.1.3,Salões de cabeleireiro e estabelecimentos de cuidados pessoais,5º quintil,334.0,False,3,1.0,False
+13.1.3,Salões de cabeleireiro e estabelecimentos de cuidados pessoais,Total,212.0,False,3,0.9,False
+13.2,Artigos pessoais n.e.,1º quintil,23.0,False,2,0.1,False
+13.2,Artigos pessoais n.e.,2º quintil,23.0,False,2,0.1,False
+13.2,Artigos pessoais n.e.,3º quintil,37.0,False,2,0.2,False
+13.2,Artigos pessoais n.e.,4º quintil,33.0,False,2,0.1,False
+13.2,Artigos pessoais n.e.,5º quintil,65.0,True,2,0.2,True
+13.2,Artigos pessoais n.e.,Total,37.0,False,2,0.2,False
+13.2.1,Artigos de joalharia e relojoaria,1º quintil,8.0,True,3,0.1,True
+13.2.1,Artigos de joalharia e relojoaria,2º quintil,6.0,False,3,0.0,False
+13.2.1,Artigos de joalharia e relojoaria,3º quintil,13.0,True,3,0.1,True
+13.2.1,Artigos de joalharia e relojoaria,4º quintil,,False,3,,False
+13.2.1,Artigos de joalharia e relojoaria,5º quintil,40.0,True,3,0.1,True
+13.2.1,Artigos de joalharia e relojoaria,Total,18.0,False,3,0.1,False
+13.2.2,Artigos de devoção e artigos para celebrações religiosas e rituais,1º quintil,2.0,True,3,0.0,True
+13.2.2,Artigos de devoção e artigos para celebrações religiosas e rituais,2º quintil,4.0,True,3,0.0,True
+13.2.2,Artigos de devoção e artigos para celebrações religiosas e rituais,3º quintil,3.0,True,3,0.0,True
+13.2.2,Artigos de devoção e artigos para celebrações religiosas e rituais,4º quintil,3.0,True,3,0.0,True
+13.2.2,Artigos de devoção e artigos para celebrações religiosas e rituais,5º quintil,2.0,True,3,0.0,True
+13.2.2,Artigos de devoção e artigos para celebrações religiosas e rituais,Total,3.0,False,3,0.0,False
+13.2.9,Outros artigos pessoais,1º quintil,13.0,True,3,0.1,True
+13.2.9,Outros artigos pessoais,2º quintil,13.0,True,3,0.1,True
+13.2.9,Outros artigos pessoais,3º quintil,21.0,False,3,0.1,False
+13.2.9,Outros artigos pessoais,4º quintil,11.0,False,3,0.0,False
+13.2.9,Outros artigos pessoais,5º quintil,23.0,True,3,0.1,True
+13.2.9,Outros artigos pessoais,Total,16.0,False,3,0.1,False
+13.3,Proteção social,1º quintil,206.0,False,2,1.3,False
+13.3,Proteção social,2º quintil,170.0,False,2,0.9,False
+13.3,Proteção social,3º quintil,238.0,False,2,1.1,False
+13.3,Proteção social,4º quintil,230.0,False,2,0.9,False
+13.3,Proteção social,5º quintil,260.0,False,2,0.7,False
+13.3,Proteção social,Total,221.0,False,2,0.9,False
+13.3.0,Proteção social,1º quintil,206.0,False,3,1.3,False
+13.3.0,Proteção social,2º quintil,170.0,False,3,0.9,False
+13.3.0,Proteção social,3º quintil,238.0,False,3,1.1,False
+13.3.0,Proteção social,4º quintil,230.0,False,3,0.9,False
+13.3.0,Proteção social,5º quintil,260.0,False,3,0.7,False
+13.3.0,Proteção social,Total,221.0,False,3,0.9,False
+13.9,Outros serviços n.e.,1º quintil,50.0,True,2,0.3,True
+13.9,Outros serviços n.e.,2º quintil,52.0,False,2,0.3,False
+13.9,Outros serviços n.e.,3º quintil,60.0,False,2,0.3,False
+13.9,Outros serviços n.e.,4º quintil,,False,2,,False
+13.9,Outros serviços n.e.,5º quintil,113.0,False,2,0.3,False
+13.9,Outros serviços n.e.,Total,94.0,True,2,0.4,True
+13.9.0,Outros serviços n.e.,1º quintil,50.0,True,3,0.3,True
+13.9.0,Outros serviços n.e.,2º quintil,52.0,False,3,0.3,False
+13.9.0,Outros serviços n.e.,3º quintil,60.0,False,3,0.3,False
+13.9.0,Outros serviços n.e.,4º quintil,,False,3,,False
+13.9.0,Outros serviços n.e.,5º quintil,113.0,False,3,0.3,False
+13.9.0,Outros serviços n.e.,Total,94.0,True,3,0.4,True
+TOTAL,Despesa total anual média por agregado,1º quintil,16294.0,False,0,100.0,False
+TOTAL,Despesa total anual média por agregado,2º quintil,18269.0,False,0,100.0,False
+TOTAL,Despesa total anual média por agregado,3º quintil,22188.0,False,0,100.0,False
+TOTAL,Despesa total anual média por agregado,4º quintil,26188.0,False,0,100.0,False
+TOTAL,Despesa total anual média por agregado,5º quintil,34994.0,False,0,100.0,False
+TOTAL,Despesa total anual média por agregado,Total,23900.0,False,0,100.0,False
