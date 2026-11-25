@@ -1,18 +1,20 @@
-# Despesa das famílias em Portugal (2022–2023)
+# Household spending in Portugal (2022–2023)
 
-Como se distribui a despesa das famílias portuguesas e como varia entre regiões e níveis de rendimento? O projeto analisa a despesa anual média por agregado com dados do [Inquérito às Despesas das Famílias 2022/2023 do INE](https://ine.pt/xurl/pub/439486878).
+English · [Português](README.pt.md)
 
-## Principais resultados
+How do households in Portugal spend their money, and how does spending vary by region and income? This project analyses average annual expenditure per household using the [2022/2023 Household Budget Survey from Statistics Portugal (INE)](https://ine.pt/xurl/pub/439486878).
 
-- Habitação (39,3%), alimentação (12,9%) e transportes (12,1%) somam 64,3% da despesa média nacional.
-- A habitação representa 39,3% da despesa com a renda subjetiva estimada pelas famílias, 34,1% com a renda imputada pelo modelo do INE e 16,4% quando se subtrai a renda subjetiva à despesa de habitação e à despesa total.
-- No quinto quintil, a alimentação pesa menos no orçamento do que no primeiro (9,8% face a 15,8%), embora a despesa anual média com alimentação seja superior (3 442 € face a 2 571 €).
+## Key findings
 
-## Como reproduzir a análise
+- Housing (39.3%), food (12.9%) and transport (12.1%) account for 64.3% of average household expenditure nationwide.
+- Housing accounts for 39.3% of expenditure using households’ own rental estimates, 34.1% using INE’s model-based imputed rents, and 16.4% when households’ rental estimates are subtracted from both housing and total expenditure.
+- Food accounts for a smaller share of spending in the highest income quintile than in the lowest (9.8% versus 15.8%), even though average annual food spending is higher (€3,442 versus €2,571).
 
-A execução foi verificada com Python 3.13 e SQLite 3.50. A consulta SQL de habitação requer SQLite 3.30 ou posterior, através do módulo `sqlite3` do Python.
+## Reproduce the analysis
 
-A partir da raiz do repositório, em macOS ou Linux:
+The notebooks are written in Portuguese. The analysis was verified with Python 3.13 and SQLite 3.50. The housing query requires SQLite 3.30 or later through Python’s built-in `sqlite3` module.
+
+On macOS or Linux, run the following from the repository root.
 
 ```bash
 python3 -m venv .venv
@@ -22,17 +24,17 @@ cd notebooks
 jupyter lab
 ```
 
-Executa todas as células de cada notebook pela ordem abaixo, com a pasta `notebooks/` como diretório de trabalho do kernel.
+Run all cells in each notebook in the order below, with `notebooks/` as the kernel’s working directory.
 
-1. [Limpeza e preparação](notebooks/01_limpeza_idef.ipynb) lê o Excel original e gera os dois CSV em [`data/processed/`](data/processed/).
-2. [Análise exploratória](notebooks/02_analise_exploratoria.ipynb) lê os CSV e compara a estrutura da despesa por região e quintil, incluindo três cenários para a habitação.
-3. [Análise SQL](notebooks/03_analise_sql.ipynb) carrega os mesmos CSV numa base SQLite em memória e responde a quatro perguntas sobre a despesa.
+1. [Data cleaning and preparation](notebooks/01_limpeza_idef.ipynb) reads the original Excel file and produces two CSV files in [`data/processed/`](data/processed/).
+2. [Exploratory analysis](notebooks/02_analise_exploratoria.ipynb) reads the CSV files and compares spending across regions and income quintiles, including three housing scenarios.
+3. [SQL analysis](notebooks/03_analise_sql.ipynb) loads the same CSV files into an in-memory SQLite database and answers four questions about household spending.
 
-Os CSV já estão incluídos no repositório. Para explorar os resultados com esses ficheiros, podes começar pelo segundo ou pelo terceiro notebook.
+The processed CSV files are included in the repository. To explore the results with these files, start with the second or third notebook.
 
-## Dados e interpretação
+## Data and interpretation
 
-- [Ficheiro Excel do INE](data/IDF20222023_a.xlsx). Os quadros Q.2.1.a e Q.2.1.b contêm a despesa em euros e em percentagem por região. Os quadros Q.2.11.a e Q.2.11.b apresentam as mesmas medidas por quintil.
-- Os montantes de habitação e despesa total no cenário com renda imputada vêm do quadro «Em destaque: a avaliação da autolocação», na p. 36 da publicação. O cenário sem renda subjetiva conserva as restantes despesas não monetárias.
-- Os quintis baseiam-se no rendimento equivalente de 2021 e as regiões seguem a delimitação NUTS II de 2013. Os pesos são rácios de despesas médias de cada grupo. Diferenças regionais pequenas devem ser interpretadas com cautela.
-- A despesa em educação no Alentejo está indisponível. A limpeza preserva os valores em falta e sinaliza as estimativas de baixa fiabilidade identificadas pelo INE.
+- The [INE workbook](data/IDF20222023_a.xlsx) reports expenditure in euros and as a share of total expenditure by region (tables Q.2.1.a and Q.2.1.b) and income quintile (tables Q.2.11.a and Q.2.11.b).
+- Housing and total expenditure under model-based imputation come from the table on owner-occupied housing valuation on page 36 of the INE publication. The scenario that excludes households’ rental estimates retains other non-monetary expenditure.
+- Quintiles are based on 2021 equivalised income, and regions follow the 2013 NUTS II boundaries. Expenditure shares are ratios of group averages. Small regional differences should be interpreted with caution.
+- Education expenditure for Alentejo is unavailable. Data cleaning preserves missing values and flags estimates identified by INE as having low reliability.
